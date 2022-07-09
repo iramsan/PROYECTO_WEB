@@ -1,0 +1,14 @@
+<p class="txtG">¿Qué es?</p>
+El cuadro sinóptico es un organizador gráfico muy utilizado, ya que permite organizar y clasificar información. Se caracteriza por organizar los conceptos de lo general a lo particular, y de
+izquierda a derecha, en orden jerárquico; para clasificar la información se utilizan llaves.
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se identifican los conceptos generales o inclusivos.
+<span class="indices">b)</span> Se derivan los conceptos secundarios o subordinados.
+<span class="indices">c)</span> Se categorizan los conceptos estableciendo relaciones de jerarquía.
+<span class="indices">d)</span> Se utilizan llaves para señalar las relaciones.
+<p class="txtG">¿Para qué se utiliza?</p>
+El cuadro sinóptico permite:
+<span class="indices">•</span> Establecer relaciones entre conceptos.
+<span class="indices">•</span> Desarrollar la habilidad para clasificar y establecer jerarquías.
+<span class="indices">•</span> Organizar el pensamiento.
+<span class="indices">•</span> Facilitar la comprensión de un tema.

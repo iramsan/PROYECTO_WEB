@@ -1,0 +1,12 @@
+<p class="txtG">¿Qué es?</p>
+El cuadro comparativo es una estrategia que permite identificar las semejanzas y diferencias de dos o más objetos o hechos. Una cuestión importante es que, luego de hacer el cuadro comparativo, es conveniente enunciar la conclusión a la que se llegó.
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se identifican los elementos que se desea comparar.
+<span class="indices">b)</span> Se marcan los parámetros a comparar.
+<span class="indices">c)</span> Se identifican y escriben las características de cada objeto o evento.
+<span class="indices">d)</span> Se enuncian afirmaciones donde se mencionen las semejanzas y diferencias más relevantes de los elementos comparados.
+<p class="txtG">¿Para qué se utiliza?</p>
+El cuadro comparativo:
+<span class="indices">•</span> Permite desarrollar la habilidad de comparar, lo que constituye la base para la emisión de juicios de valor.
+<span class="indices">•</span> Facilita el procesamiento de datos, lo cual antecede a la habilidad de clasificar y categorizar información.
+<span class="indices">•</span> Ayuda a organizar el pensamiento.

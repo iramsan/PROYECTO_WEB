@@ -1,0 +1,17 @@
+<p class="txtG">¿Qué es?</p>
+La correlación es un diagrama semejante a un modelo atómico donde se relacionan entre sí los conceptos o acontecimientos de un tema.
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> La principal característica de este diagrama es la jerarquía de los conceptos.
+<span class="indices">a)</span> En el círculo central marcado se anota el tema o concepto principal.
+<span class="indices">a)</span> En los círculos de la parte inferior se anotan los conceptos subordinados al tema principal.
+<span class="indices">a)</span> En los círculos de la parte superior se anotan los conceptos supraordenados.
+<p class="txtG">¿Para qué se utiliza?</p>
+La correlación permite:
+<span class="indices">•</span> Identificar conceptos o ideas clave de un texto y establecer relaciones entre ellos.
+<span class="indices">•</span> Interpretar y comprender la lectura realizada.
+<span class="indices">•</span> Promover el pensamiento lógico.
+<span class="indices">•</span> Establecer relaciones de subordinación e interrelación.
+<span class="indices">•</span> Insertar nuevos conocimientos en la propia estructura del pensamiento.
+<span class="indices">•</span> Indagar conocimientos previos.
+<span class="indices">•</span> Organizar el pensamiento.
+<span class="indices">•</span> Llevar a cabo un estudio eficaz.

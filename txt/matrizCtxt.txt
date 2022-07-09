@@ -1,0 +1,14 @@
+<p class="txtG">¿Qué es?</p>
+La matriz de clasificación es una estrategia que permite hacer distinciones detalladas de las características de algún tipo de información específica. El objetivo es formar conjuntos o clases.
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se identifican los elementos que se desean clasificar y se hace un listado.
+<span class="indices">b)</span> Se organizan los elementos en grupos iniciales.
+<span class="indices">c)</span> Se determinan los elementos y las categorías que se van a clasificar.
+<span class="indices">d)</span> Se identifican las características que hacen a cada categoría distinta de otra.
+<span class="indices">e)</span> Se verifica si las características de los elementos cubren las necesidades de las categorías.
+<span class="indices">f)</span> Se da una conclusión de los resultados de la clasificación de los elementos.
+<p class="txtG">¿Para qué se utiliza?</p>
+La matriz de clasifi cación permite:
+<span class="indices">•</span> Llegar a determinar detalles que a simple vista no podríamos determinar.
+<span class="indices">•</span> Agrupar en clases determinadas o no, dependiendo del interés del trabajo que estemos desarrollando. Si para una clasificación, tenemos las categorías a priori, entonces las utilizamos; de lo contrario, primero realizamos el agrupamiento, y después hacemos emerger las categorías. 
+<span class="indices">•</span> Es muy útil en el análisis de datos cualitativos (hermenéutica).

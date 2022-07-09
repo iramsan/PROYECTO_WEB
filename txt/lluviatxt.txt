@@ -1,0 +1,22 @@
+<p class="txtG">¿Qué es?</p>
+Es una estrategia grupal que permite indagar u obtener información acerca de lo que un grupo conoce sobre un tema determinado. Es adecuada para generar ideas acerca de un tema específico o dar solución a un problema.
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se parte de una pregunta central acerca de un tema, una situación o un problema.
+<span class="indices">b)</span> La participación de los estudiantes puede ser oral o escrita (se debe delimitar el número de intervenciones).
+<span class="indices">c)</span> Se exponen ideas, pero no se ahonda en justificaciones ni en su fundamento.
+<span class="indices">d)</span> Todas las ideas expresadas son válidas.
+<span class="indices">e)</span> El tiempo para llevar a cabo esta estrategia es breve: no más de 15 minutos.
+<span class="indices">f)</span> Debe existir un moderador, quien debe anotar en el pizarrón las ideas expuestas y promover un ambiente de respeto, creatividad y relajación.
+<span class="indices">g)</span> Las ideas se analizan, valoran y organizan de acuerdo con la pregunta central.
+<span class="indices">h)</span> Se puede realizar conjuntamente con otros organizadores gráficos.
+<span class="indices">i)</span> Después de haber indagado en las ideas previas de los participantes, es conveniente realizar una síntesis escrita de lo planteado.
+<p class="txtG">¿Para qué se utiliza?</p>
+La técnica clásica de la lluvia de ideas (brainstorming en inglés) permite:
+<span class="indices">•</span> Indagar conocimientos previos.
+<span class="indices">•</span> Favorecer la recuperación de información.
+<span class="indices">•</span> Favorecer la creación de nuevo conocimiento.
+<span class="indices">•</span> Aclarar concepciones erróneas.
+<span class="indices">•</span> Resolver problemas.
+<span class="indices">•</span> Desarrollar la creatividad.
+<span class="indices">•</span> Obtener conclusiones grupales.
+<span class="indices">•</span> Propiciar una alta participación de los alumnos.

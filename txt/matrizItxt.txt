@@ -1,0 +1,14 @@
+<p class="txtG">¿Qué es?</p>
+La matriz de inducción es una estrategia que sirve para extraer conclusiones a partir de fragmentos de informació
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se identifican los elementos y parámetros a comparar, puesto que el primer paso es comparar los elementos.
+<span class="indices">b)</span> Se toma nota de ellos y se escriben.
+<span class="indices">c)</span> Se analiza la información recolectada y se buscan patrones.
+<span class="indices">d)</span> Se extraen conclusiones con base en el patrón observado. Se buscan más evidencias que confirmen o refuten las conclusiones.
+<p class="txtG">¿Para qué se utiliza?</p>
+La matriz de inducción permite:
+<span class="indices">•</span> Extraer conclusiones.
+<span class="indices">•</span> Identificar elementos de comparación.
+<span class="indices">•</span> Identificar semejanzas y diferencias entre conceptos, temas o hechos.
+<span class="indices">•</span> Desarrollar el pensamiento crítico: analizar, sintetizar y emitir juicios.
+<span class="indices">•</span> Cuando hablamos de un “aparato crítico” en el marco teórico o marco teórico referencial de las tesis, estamos hablando de una discusión que aporta el autor, la cual verdaderamente constituye una inducción.

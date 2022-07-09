@@ -1,0 +1,26 @@
+<p class="txtG">¿Qué es?</p>
+Es una estrategia que sirve para adquirir conocimiento sobre el propio conocimiento y sobre cómo este se construye y utiliza.Su uso se recomienda para situaciones prácticas en las que los alumnos tengan contacto directo con los fenómenos o las situaciones observables. Asimismo, se puede aplicar para el análisis de lecturas científicas.
+Está integrada por los siguientes elementos:
+<span class="indices">a)</span> Parte central: título o tema (es decir, el tema general).
+<span class="indices">b)</span> Punto de enfoque: fenómeno, hecho o acontecimiento de interés en el aprendizaje.
+<span class="indices">c)</span> Propósito: objetivo de la práctica que contiene tres momentos: ¿qué voy hacer? (verbooperación mental), ¿cómo lo voy hacer? (mediante, a través de, por medio de, etcétera), y ¿para qué lo voy hacer?
+<span class="indices">d)</span> Preguntas centrales: son preguntas exploratorias que concuerdan con el propósito y el punto de enfoque para delimitar el tema de investigación.
+<span class="indices">e)</span> Teoría: es el marco que explica el porqué de un comportamiento del fenómeno de estudio. Se refiere al propósito y al punto de enfoque. Se puede desarrollar en forma de estrategia.
+<span class="indices">f)</span> Conceptos: son palabras clave o ideas principales que no se comprenden, pero que son necesarias para la interpretación de la práctica (vocabulario mínimo: cinco).
+<span class="indices">g)</span> Hipótesis: suposición que resulta de la observación de un hecho o fenómeno a estudiar. Debe estar relacionada con las preguntas centrales.
+<span class="indices">h)</span> Material: lista de utensilios requeridos para la práctica, especificando el tipo y la calidad de éstos.
+<span class="indices">i)</span> Procedimiento: es la secuencia de pasos listados para la realización del experimento; siempre está enfocado a la investigación que nos lleve a responder las preguntas.
+<span class="indices">j)</span> Registro de resultados: pueden ser datos cuantitativos y/o cualitativos; son resultados expresados empleando una estrategia como cuadro organizativo, cuadro comparativo, etcétera. Se realiza por escrito e incluye las observaciones más importantes que el alumno realizó durante el procedimiento, las fallas, los errores, las correcciones, etcétera. Además, pueden incluirse tablas, gráficas y otros recursos visuales.
+<span class="indices">k)</span> Transformación del conocimiento: implica organizar lógicamente los requisitos a través de esquemas gráficos que permitan presentar la información (análisis de los resultados para su mejor interpretación a través de gráficas, por ejemplo).
+<span class="indices">l)</span> Afirmación del conocimiento: es el conjunto de las respuestas a las preguntas centrales apoyadas en los registros y las transformaciones del conocimiento.
+<span class="indices">m)</span> Conclusiones: es el conjunto de resultados que se logran a partir de la relación entre propósito, hipótesis y transformación del conocimiento.
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">•</span> Se presenta a los alumnos una situación o un fenómeno real.
+<span class="indices">•</span> Se presenta la técnica uve para que los alumnos comiencen a organizar su pensamiento,sepan hacia dónde dirigir el estudio y cómo registrar las observaciones realizadas in situ.
+<span class="indices">•</span> Se describe cada una de las secciones que conforman la técnica.
+<span class="indices">•</span> Se sigue la secuencia presentada anteriormente [inciso a) a m)].
+<p class="txtG">¿Para qué se utiliza?</p>
+La técnica heurística uve de Gowin permite:
+<span class="indices">•</span> Desarrollar la metacognición.
+<span class="indices">•</span> Organizar procesos para desarrollar un proyecto.
+<span class="indices">•</span> Favorecer el uso del método científico tradicional; pero también es factible aplicarla en las ciencias sociales.

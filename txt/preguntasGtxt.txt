@@ -1,0 +1,13 @@
+<p class="txtG">¿Qué son?</p>
+Las preguntas-guía constituyen una estrategia que nos permite visualizar un tema de una manera global a través de una serie de interrogantes que ayudan a esclarecer el tema.
+<p class="txtG">¿Cómo se aplican?</p>
+<span class="indices">a)</span> Se selecciona un tema.
+<span class="indices">b)</span> Se formulan preguntas. Se solicita a los estudiantes que las formulen, tomando en cuenta la representación siguiente	
+<span class="indices">c)</span> Las preguntas se contestan haciendo referencia a datos, ideas y detalles expresados en una lectura.
+<span class="indices">d)</span> La utilización de un esquema es opcional.
+<p class="txtG">¿Para qué utilizan?</p>
+Las preguntas-guía permiten:
+<span class="indices">•</span>  Identificar detalles.
+<span class="indices">•</span>  Analizar conceptos.
+<span class="indices">•</span>  Indagar conocimientos previos. 
+<span class="indices">•</span>  Planear un proyecto.
