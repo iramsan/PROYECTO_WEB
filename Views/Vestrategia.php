@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="./css/style.css">
 <?php if (isset($_GET['p'])) {
     $x = $_GET['p'];
     $upQuery = mysqli_query($conex,"select * from menu join rutas on Referencia=Cod_Menu where Busqueda = '$x'");

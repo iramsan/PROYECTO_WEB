@@ -4,12 +4,12 @@ $query=mysqli_query($conex,"SELECT * FROM menu JOIN categoria ON Cod_Estrategias
 $results = mysqli_num_rows($query); 
 
 if ($results >= 1) { ?>
-    <p class="p_result"><?php echo $results;?> RESULTADOS</p>
+    <p class="r_search">RESULTADOS: <?php echo $results;?> </p>
     <?php while($getQuery = mysqli_fetch_array($query)){ ?>
-    <a href="main.php<?php echo '?p='.$getQuery["Busqueda"]; ?>" class="atxtsrch dflex_2 gap"><?php echo strtoupper($getQuery["Nombre"]); ?> <p>-</p> <p class="categoria"><?php echo strtoupper($getQuery["Categoria"]); ?></p></a><br>
+    <a class="a_1-0 dflex_1-1" href="main.php<?php echo '?p='.$getQuery["Busqueda"]; ?>"><?php echo strtoupper($getQuery["Nombre"]); ?> <p>➡️</p></a><br>
     <?php } ?>
 <?php }else{ ?>
-    <p class="notData">NO SE ENCONTRO NINGUNA COINCIDENCIA</p>
+    <p class="r_failSearch">NO SE ENCONTRO NINGUNA COINCIDENCIA</p>
 <?php } ?>
 
 

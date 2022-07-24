@@ -1,3 +1,7 @@
+const jsBoxSearch = document.getElementById("jsBoxSearch"); //Box
+const jsBttnsearch = document.getElementById("jsBttnsearch"); //active
+jsBttnsearch.addEventListener("click",() => jsBoxSearch.classList.toggle("showSearch"));
+
 function buscar_ahora(buscar) {
     var parametros = {"buscar":buscar};
     $.ajax({
@@ -111,6 +115,7 @@ const GMopen = document.querySelector(".GMopen");
 
 const Bsearch = document.querySelector(".Bsearch");
 Bsearch.addEventListener("click",fBsearch);
+
 const searchBox = document.querySelector(".searchBox");
 const BsearchM = document.querySelector(".BsearchM");
 BsearchM.addEventListener("click",fBsearch);
@@ -118,8 +123,8 @@ BsearchM.addEventListener("click",fBsearch);
 const add = document.querySelector('.add');
 function fBsearch() {
     searchBox.classList.toggle("showSearch");
-    GMopen.classList.remove("active");
-    add.classList.toggle("addmore");
+    // GMopen.classList.remove("active");
+    // add.classList.toggle("addmore");
 }
 
 function fBMopen(){

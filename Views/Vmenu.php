@@ -1,73 +1,72 @@
 <?php require_once('./Conf/CofMenu.php'); ?>
 <div class="">
-    <nav class="menu GMopen">
-        <ul class="ul scrool">
+    <nav class="menu scroolMenu" id="menu">
+        <ul class="ul_1-1">
             <!-- Estrategias -->
-            <li class="li"><a href="#" class="a color">Estrategias</a></li>
-            <li><ul class="ul">
-            <li class="li_2"><a href="#" class="a color1">Indagar en conocimientos</a></li>
+            <li class="li_1-1"><a href="#" class="li_1-4">Estrategias</a></li>
+            <li><ul class="ul_1-1">
+            <li class="margin"><a href="#" class="li_1-3">Indagar en conocimientos</a></li>
                 <?php while ($row = mysqli_fetch_array($menu_1)) { ?>
-                    <li class="li_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
-                <li class=""><a href="#" class="a gap li_2 BPopen"><p>Peguntas</p><img src="./img/iconArrow2.png" alt="iconArrow" class="iconSmall"></a></li>
-                <li class="li_2"><a href="#" class="a color1">Promover la comprensión</a></li>
+                <li class="margin_2" id="jsBPreguntas"><a href="#" class="li_1-2">Peguntas<img src="./img/iconArrow2.png" alt="iconArrow" class="icon_1-2"></a></li>
+                <li class="margin"><a href="#" class="li_1-3">Promover la comprensión</a></li>
                 <?php while ($row = mysqli_fetch_array($menu_2)) { ?>
-                    <li class="li_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
-                <li class=""><a href="#" class="a gap li_2 BDopen"><p>Diagramas</p><img src="./img/iconArrow2.png" alt="iconArrow" class="iconSmall"></a></li>
-                <li class=""><a href="#" class="a gap li_2 BMaopen"><p>Mapas cognitivos</p><img src="./img/iconArrow2.png" alt="iconArrow" class="iconSmall"></a></li>
-                <li class=""><a href="#" class="a gap li_2 BOopen"><p>otras estrategias</p><img src="./img/iconArrow2.png" alt="iconArrow" class="iconSmall"></a></li>
-                <li class=""><a href="#" class="a color1">Grupales</a></li>
+                <li class="margin_2" id="jsBDiagrama"><a href="#" class="li_1-2">Diagramas<img src="./img/iconArrow2.png" alt="iconArrow" class="icon_1-2"></a></li>
+                <li class="margin_2" id="jsBMapas"><a href="#" class="li_1-2">Mapas cognitivos<img src="./img/iconArrow2.png" alt="iconArrow" class="icon_1-2"></a></li>
+                <li class="margin_2" id="jsBOtras"><a href="#" class="li_1-2">otras estrategias<img src="./img/iconArrow2.png" alt="iconArrow" class="icon_1-2"></a></li>
+                <li class="margin_2"><a href="#" class="li_1-3">Grupales</a></li>
                 <?php while ($row = mysqli_fetch_array($menu_3)) { ?>
-                    <li class="li_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
             </ul></li>
             <!-- Metodologias -->
-            <li class="li"><a href="#" class="a color">Metodologias</a></li>
-            <li><ul class="ul scrool">
+            <li class="li_1-1"><a href="#" class="li_1-4">Metodologias</a></li>
+            <li><ul class="ul_1-1">
             <?php while ($row = mysqli_fetch_array($menu_4)) { ?>
-                    <li class="li_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
             </ul></li>
         </ul>
     </nav>
+
+
+
     <!-- Preguntas -->
-    <nav class="menus GPopen">
-        <img src="./img/iconArrow.png" alt="iconArrow" class="icon BPclose">
-        <ul class="ul">
-            <li class="li_2"><a href="#" class="a color1">Preguntas</a></li>
+    <nav class="menuCard" id="jsMenuPCard">
+        <ul class="ul_1-1">
+            <li class="li_1-2"><a href="#" class="li_1-3">Preguntas</a></li>
             <?php while ($row = mysqli_fetch_array($menu_p)) { ?>
-                    <li class="li_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
         </ul>
     </nav>
     <!-- Diagramas -->
-    <nav class="menus GDopen ">
-        <img src="./img/iconArrow.png" alt="iconArrow" class="icon BDclose">
-        <ul class="ul">
-            <li class="li_2"><a href="#" class="a color1">Diagramas</a></li>
+    <nav class="menuCard" id="jsMenuDCard">
+        <ul class="ul_1-1">
+            <li class="li_2"><a href="#" class="li_1-3">Diagramas</a></li>
             <?php while ($row = mysqli_fetch_array($menu_d)) { ?>
-                    <li class="li_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
         </ul>
     </nav>
     <!-- Mapas -->
-    <nav class="menus GMaopen ">
-        <img src="./img/iconArrow.png" alt="iconArrow" class="icon BMclose">
-        <ul class="ul">
-            <li class="li_2"><a href="#" class="a color1">Mapas Cognitivos</a></li>
+    <nav class="menuCard" id="jsMenuMCard">
+        <ul class="ul_1-1">
+            <li class="li_2"><a href="#" class="li_1-3">Mapas Cognitivos</a></li>
             <?php while ($row = mysqli_fetch_array($menu_m)) { ?>
-                    <li class="li_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
         </ul>
     </nav>
     <!-- Otras -->
-    <nav class="menus GOopen ">
-        <img src="./img/iconArrow.png" alt="iconArrow" class="icon BOclose">
-        <ul class="ul">
-            <li class="li_2"><a href="#" class="a color1">Otras Estrategias</a></li>
+    <nav class="menuCard" id="jsMenuOCard">
+        <ul class="ul_1-1">
+            <li class="li_2"><a href="#" class="li_1-3">Otras Estrategias</a></li>
             <?php while ($row = mysqli_fetch_array($menu_o)) { ?>
-                    <li class="li_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
         </ul>
     </nav>

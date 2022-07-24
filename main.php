@@ -7,16 +7,16 @@
     <title>Document</title>
     <link rel="stylesheet" href="./css/officialCss.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
-    <script defer src="./js/main.js"></script>
+    <script defer src="./js/mod.js"></script>
 </head>
 <body class="body">
-    <?php require_once('Views/Vheader.php'); ?>
+    <?php require_once('./Views/VheaderMovile.php'); ?>
     <main class="main ">
-    <?php require_once('Views/Vmenu.php'); ?>
+    <?php require_once('./Views/Vmenu.php'); ?>
         <section class="contents dflex_2 add">
-            <?php include('./Conf/ConfView.php'); ?>
+            <?php #include('./Conf/ConfView.php'); ?>
         </section>
-    <?php require_once('Views/Vfooter.php');?>
+    <?php #require_once('Views/Vfooter.php');?>
     </main>
 </script>
 </body>
