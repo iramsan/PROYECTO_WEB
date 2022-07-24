@@ -22,7 +22,7 @@
     <nav class="off gap">
         <ul class="ul dflex gap">
             <img src="./img/iconSearch.png" alt="iconSearch" class="icon Bsearch">
-            <li><a href="" class="a">Recursos</a></li>
+            <li><a href="./recursos.php" class="a">Recursos</a></li>
             <li><a href="" class="a">Suscripciones</a></li>
             <li class="dflex">
                 <a href="" class="a">
