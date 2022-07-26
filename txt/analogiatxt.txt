@@ -3,7 +3,7 @@ La analogía es una estrategia de razonamiento que permite relacionar elementos 
 <p class="txtG">¿Cómo se realiza? </p>
 <span class="indices">a)</span> Se eligen los elementos que se desea relacionar.
 <span class="indices">b)</span> Se define cada elemento.
-<span class="indices">c)</span> Se buscan elementos o situaciones de la vida diaria con los cuales se puede efectuar la relación para que sea más fácil su compresión.
+<span class="indices">c)</span> Se buscan elementos o situaciones de la vida diaria con los cuales se puede efectuar la relación para que sea más fácil su compresión.
 <p class="txtG">¿Para qué se utiliza?</p>
 La analogía permite:
 <span class="indices">•</span> Comprender contenidos complejos y abstractos.

@@ -10,6 +10,10 @@ const jsBoxSearch = document.getElementById("jsBoxSearch"); //searchCard
 const imgChangeSearch = document.getElementById("imgChangeSearch");
 const imgChangeMenu = document.getElementById("imgChangeMenu");
 
+// BTTN back Desk cards menu
+const jsBBackDesk = document.getElementById("jsBBackDesk");
+jsBBackDesk.addEventListener("click",closeMenuCard);
+
 // B Search
 const jsBttnsearch = document.getElementById("jsBttnsearch");
 jsBttnsearch.addEventListener("click",function () {
@@ -53,7 +57,7 @@ jsBttnMenu.addEventListener("click",function (){
 
 
 
-// Menu's Card
+// Menu's Card Open
 const jsBPreguntas = document.getElementById("jsBPreguntas");
 jsBPreguntas.addEventListener("click",function (){
     cards(jsMenuPCard);
@@ -72,17 +76,40 @@ jsBOtras.addEventListener("click",function (){
 });
 
 // ***************************************************
+const imgChangeSearchDesk = document.getElementById("imgChangeSearchDesk");
+
 const jsBttnsearchDesk = document.getElementById("jsBttnsearchDesk");
 jsBttnsearchDesk.addEventListener("click",function (){
     console.log("XD");
-    jsBoxSearch.classList.toggle("showSearch");
+    const x = jsBoxSearch.classList.toggle("showSearch");
+    if (x) {
+        imgChangeSearchDesk.src="./img/iconClose.png";
+    }else{
+        imgChangeSearchDesk.src="./img/iconSearch.png"
+    }
 });
 
+
+
+// ***************************************
 
 function cards(control){
     menu.classList.remove("showMenu");
     control.classList.toggle("showMenu");
     imgChangeMenu.src="./img/iconArrow.png";
+    showHiddBBack();
+}
+
+function showHiddBBack(){
+    const pag = jsMenuPCard.classList.contains("showMenu");
+    const dia = jsMenuDCard.classList.contains("showMenu");
+    const map = jsMenuMCard.classList.contains("showMenu");
+    const otr = jsMenuOCard.classList.contains("showMenu");
+    if (dia || map || otr || pag) {
+        jsBBackDesk.classList.toggle("iconBackShow");
+    }else{
+        jsBBackDesk.classList.remove("iconBackShow");
+    }
 }
 
 function checkM(checkMenu){
@@ -104,6 +131,7 @@ function closeMenuCard(){
     jsMenuDCard.classList.remove("showMenu");
     jsMenuMCard.classList.remove("showMenu");
     jsMenuOCard.classList.remove("showMenu");
+    showHiddBBack();
 }
 
 

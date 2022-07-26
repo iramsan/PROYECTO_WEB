@@ -13,8 +13,8 @@
     <?php require_once('./Views/VheaderMovile.php'); ?>
     <main class="main ">
     <?php require_once('./Views/Vmenu.php'); ?>
-        <section class="contents dflex_2 add">
-            <?php #include('./Conf/ConfView.php'); ?>
+        <section class="cont">
+            <?php include('./Conf/ConfView.php'); ?>
         </section>
     <?php #require_once('Views/Vfooter.php');?>
     </main>

@@ -33,11 +33,11 @@
     </nav>
 
 
-
+    <spam class="iconBack" id="jsBBackDesk"><a href="#"><img class="icon_1-0" src="./img/iconArrow.png"></a></spam>
     <!-- Preguntas -->
     <nav class="menuCard" id="jsMenuPCard">
         <ul class="ul_1-1">
-            <li class="li_1-2"><a href="#" class="li_1-3">Preguntas</a></li>
+            <li class=""><a href="#" class="li_1-3">Preguntas</a></li>
             <?php while ($row = mysqli_fetch_array($menu_p)) { ?>
                     <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
@@ -46,7 +46,7 @@
     <!-- Diagramas -->
     <nav class="menuCard" id="jsMenuDCard">
         <ul class="ul_1-1">
-            <li class="li_2"><a href="#" class="li_1-3">Diagramas</a></li>
+            <li class=""><a href="#" class="li_1-3">Diagramas</a></li>
             <?php while ($row = mysqli_fetch_array($menu_d)) { ?>
                     <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
@@ -55,7 +55,7 @@
     <!-- Mapas -->
     <nav class="menuCard" id="jsMenuMCard">
         <ul class="ul_1-1">
-            <li class="li_2"><a href="#" class="li_1-3">Mapas Cognitivos</a></li>
+            <li class=""><a href="#" class="li_1-3">Mapas Cognitivos</a></li>
             <?php while ($row = mysqli_fetch_array($menu_m)) { ?>
                     <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
@@ -64,7 +64,7 @@
     <!-- Otras -->
     <nav class="menuCard" id="jsMenuOCard">
         <ul class="ul_1-1">
-            <li class="li_2"><a href="#" class="li_1-3">Otras Estrategias</a></li>
+            <li class=""><a href="#" class="li_1-3">Otras Estrategias</a></li>
             <?php while ($row = mysqli_fetch_array($menu_o)) { ?>
                     <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
