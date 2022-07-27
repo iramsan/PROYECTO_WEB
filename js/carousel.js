@@ -17,7 +17,7 @@ function move(){
     if (index > imgArticle.length-4) {
         index = 0;
     }else if (index < 0) {
-        index = imgArticle.length-1;
+        index = imgArticle.length-4;
     }
     articlesResources.style.transform = `translateX(-${index*200}px)`;
 }

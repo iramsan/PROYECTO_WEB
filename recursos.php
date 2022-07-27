@@ -11,7 +11,7 @@
     <script defer src="./js/carousel.js"></script>
 </head>
 <body>
-    <?php require_once("./Views/VheaderMovile.php"); ?>
+    <?php require_once("./Views/VheaderAll.php"); ?>
     <?php require_once('./Conf/ConfResours.php'); ?>
     <aside class="asideResour">
         <ul class="ul_1-1">
@@ -45,7 +45,11 @@
                         <article class="articlesResour" id="articlesResources">
 
                             <?php while($showResour = mysqli_fetch_array($upQuery)){ ?>
-                                <img class="imgArticle" src="<?php echo $showResour['UrlImagen'] ?>" alt="">
+                                <div class="block">
+                                    <img class="imgArticle" src="<?php echo $showResour['UrlImagen'] ?>" alt="">
+                                    <p><?php echo $showResour['Nombre']; ?></p>
+                                    <a class="aDownloadResour" href="">Descargar</a>
+                                </div>
                             <?php } ?>
 
                         </article>

@@ -3,7 +3,7 @@
     <nav class="menu scroolMenu" id="menu">
         <ul class="ul_1-1">
             <!-- Estrategias -->
-            <li class="li_1-1"><a href="#" class="li_1-4">Estrategias</a></li>
+            <li class="li_1-1"><a href="?p=estrategias" class="li_1-4">Estrategias</a></li>
             <li><ul class="ul_1-1">
             <li class="margin"><a href="#" class="li_1-3">Indagar en conocimientos</a></li>
                 <?php while ($row = mysqli_fetch_array($menu_1)) { ?>
@@ -23,7 +23,7 @@
                 <?php } ?>
             </ul></li>
             <!-- Metodologias -->
-            <li class="li_1-1"><a href="#" class="li_1-4">Metodologias</a></li>
+            <li class="li_1-1"><a href="?p=metodologias" class="li_1-4">Metodologias</a></li>
             <li><ul class="ul_1-1">
             <?php while ($row = mysqli_fetch_array($menu_4)) { ?>
                     <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>

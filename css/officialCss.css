@@ -64,7 +64,10 @@ html, body{
     transition: 0.5s;
 }
 .li_1-0:hover{
-    width: 150px;
+    background-color: var(--afterHover);
+}
+.li_1-0:active{
+    transform: scale(0.5);
 }
 
 .icon_1-0{
@@ -358,9 +361,11 @@ html, body{
     align-items: center;
     justify-content: center;
     gap: 1rem;
+    margin-top: 66px;
 }
 .imgResour{
     width: 100%;
+    height: 250px;
 }
 .block{
     display: flex;
@@ -402,14 +407,17 @@ html, body{
 }
 .imgResBanner{
     width: 100%;
+    display: none;
+    margin-bottom: 33px;
 }
 
 .imgArticle{
     width: 180px;
+    height: 200px;
 }
 
 .carousel{
-    width: 770px;
+    width: 900px;
     overflow: hidden;
 }
 .articlesResour{
@@ -432,23 +440,48 @@ html, body{
     background-color: var(--afterHover);
 }
 
+/* PAG NOT FOUND */
+.errorBox{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 3.5rem;
+    text-align: center;
+}
+.error{
+    background-image: url('../img/PageNtFound.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    padding: 5rem;
+}
+.margin{
+    margin: 0.5rem;
+}
+.padding{
+    padding: 1rem 1rem 0 1rem;
+}
 
-
-
-
-@media (min-width: 370px){
+@media (min-width: 420px){
     .grid{
         grid-template-columns: 1fr 1fr;
     }
 }
-@media (min-width: 570px){
+@media (min-width: 650px){
+    .imgResBanner{
+        margin-top: 66px;
+        display: block;
+    }
     .grid{
         grid-template-columns: 1fr 1fr 1fr;
+        margin-top: 0;
     }
 }
 @media (min-width: 970px){
-    .grid{
-        grid-template-columns: 1fr 1fr 1fr 1fr;
+    .imgResBanner{
+        margin-top: 0;
     }
     .cont{
         margin-left: 320px;
@@ -462,6 +495,12 @@ html, body{
     }
     .bttup{
         display: none;
+    }
+}
+
+@media (min-width: 1180px){
+    .grid{
+        grid-template-columns: 1fr 1fr 1fr 1fr;
     }
 }
 
