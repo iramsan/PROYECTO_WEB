@@ -1,4 +1,6 @@
-<?php require_once('./Conf/Db_conex.php');  ?>
+<?php require_once('./Conf/Db_conex.php'); 
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 

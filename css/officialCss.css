@@ -302,6 +302,7 @@ html, body{
     margin: 1rem;
 }
 .plot{
+    margin-top: 66px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -480,6 +481,9 @@ html, body{
     }
 }
 @media (min-width: 970px){
+    .plot{
+        margin-top: 0;
+    }
     .imgResBanner{
         margin-top: 0;
     }
@@ -558,4 +562,80 @@ html, body{
     .iconBackShow{
         display: flex;
     }
+}
+
+
+
+
+
+.xxx_sss{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+.register{
+    padding: 1rem;
+    width: 350px;
+    overflow: hidden;
+}
+.contBox{
+    display: flex;
+    gap: 3rem;
+    transition: transform 1s ease-in-out;
+}
+.formBox{
+    margin-top: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    min-width: 320px;
+}
+.inpInfo{
+    padding: 1rem 0.5rem;
+    border: 1px solid var(--negro);
+    margin-bottom: 1rem;
+}
+.forgetP{
+    text-align: right;
+    text-decoration: none;
+    color: var(--negro);
+    margin-bottom: 0.5rem;
+    font-size: 14px;
+    padding: 0.5rem;
+}
+.inpSend{
+    background-color: var(--blanco);
+    padding: 1rem 3rem;
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    transition: 0.5s;
+    cursor: pointer;
+    margin-bottom: 1rem;
+}
+.inpSend:active{
+    transform: scale(0.5);
+}
+.inpSend:hover{
+    background-color: var(--afterHover);
+}
+
+.alertFail{
+    color: red;
+    text-align: center;
+}
+.alertSuccess{
+    text-align: center;
+    color: rgb(76, 202, 14);
+}
+.remark{
+    font-weight: bold;
+    color: var(--negro);
 }

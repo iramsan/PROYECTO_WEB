@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,7 +40,7 @@
             <?php }
             }else{ $upQuery = mysqli_query($conex,"select r.Categoria,rr.Nombre,rr.UrlImagen,rr.Descarga from recurso as r JOIN rutarecurso as rr on r.Cod_recurso = rr.Categoria_id"); ?>
                 <img class="imgResBanner" src="./img/imgRecurso/resourBanner.jpg" alt="">
-                <div class="dflex_1-0 gap">
+                <div class="dflex_1-0 gap margin">
                     <button class="bttCarous dflex_1-0" id="bttL"><img class="icon_1-0" src="./img/iconLeft.png" alt="img"></button>
                     <div class="carousel">
                         <article class="articlesResour" id="articlesResources">
