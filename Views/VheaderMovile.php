@@ -1,4 +1,6 @@
-<?php require_once('./Conf/Db_conex.php'); ?>
+<?php 
+session_start();
+require_once('./Conf/Db_conex.php'); ?>
 <header class="header">
     <h1 class="tittle hidden2">Kyoshi</h1>
     <!-- Icons -->
@@ -8,6 +10,8 @@
         <li class="li_1-0" id="jsBttnShop"><a href="#"><img class="icon_1-0" src="./img/iconShop.png"></a></li>
         <li class="li_1-0" id="jsBttnResour"><a href="./recursos.php"><img id="imgChangeResour" class="icon_1-0" src="./img/iconDowload.png"></a></li>
         <li class="li_1-0" id="jsBttnMenu"><a href="#"><img id="imgChangeMenu" class="icon_1-0" src="./img/iconMenu.png"></a></li>
+        <li class="li_1-0" id="jsBttnShop"><a href="./usuario.php"><img class="icon_1-0" src="./img/iconUser.png"></a></li>
+
     </ul>
     <nav class="dflex_1-1 hidden2">
         <ul class="dflex_1-0 ul_1-0">
@@ -24,7 +28,7 @@
         </ul>
 
         <?php if (isset($_SESSION['logeado'])) { ?>
-            <a class="user" href="./usuario.php"><?php echo $_SESSION['logeado'] ?></a>
+            <a class="a_1-0 a_1-1" href="./usuario.php"><?php echo $_SESSION['logeado'] ?></a>
         <?php }else{ ?>
             <a href="./registro.php" id="" class="a_1-0 a_1-1">Iniciar Sesión</a>
             <a href="./registro.php" id="" class="a_1-0 a_1-1">Registrarte</a>

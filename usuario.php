@@ -1,6 +1,4 @@
 <?php session_start(); ?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -14,10 +12,14 @@
     <?php require_once('./Views/VheaderAll.php'); ?>
 <br><br><br><br><br>
 
-<p>Nombre de usuario: <?php echo $_SESSION['logeado']; ?></p>
-<p>Nombre de E-mail: <?php echo $_SESSION['e']; ?></p>
-<p>Nombre de Contraseña: <?php echo $_SESSION['p']; ?></p>
+<?php if (isset($_SESSION['logeado'])) { ?>
+    <p>Nombre de usuario: <?php echo $_SESSION['logeado']; ?></p>
+    <p>Nombre de E-mail: <?php echo $_SESSION['e']; ?></p>
+    <p>Nombre de Contraseña: <?php echo $_SESSION['p']; ?></p>
+    <a href="./Conf/ConfLogout.php">Cerrar cuenta</a>
+<?php }else{
+    header("Location: ./registro.php");
+    }?>
 
-<a href="./Conf/ConfLogout.php">Cerrar cuenta</a>
 </body>
 </html>
