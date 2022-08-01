@@ -51,7 +51,7 @@ session_start();
             <div class="__container-968">
                 <h2 class="__mb-0">Kyoshi</h2>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit repudiandae doloribus ducimus ut obcaecati delectus quas, deleniti quos, consectetur soluta autem ea impedit corporis laborum tenetur recusandae similique est eos.</p>
-                <button class="__btn __mt-1 __btn-start"><a href="./main.php?p=lluvia-de-ideas">Empezar ahora</a></button>
+                <button class="__btn __mt-1 __btn-start"><a href="./contenido.php?p=lluvia-de-ideas">Empezar ahora</a></button>
             </div>
         </section >
         <!-- imagenes pendientes xd -->
@@ -59,7 +59,7 @@ session_start();
              <h2 class="__mb-0">Contenido</h2>
              <div class="__container-968 __flex-center">
 
-             <a class="__content-card __card" href="./main.php?p=lluvia-de-ideas">    
+             <a class="__content-card __card" href="./contenido.php?p=lluvia-de-ideas">    
                         <figure class="__container-img">
                             <img src="https://impulsapopular.com/wp-content/uploads/2019/09/4578-C%C3%B3mo-sacar-provecho-a-la-lluvia-de-ideas.jpg" alt="img">
                         </figure>
@@ -67,7 +67,7 @@ session_start();
                             <h3 class="__mt-b">Lluvia de ideas</h3>
                         </div>   
                 </a> 
-                <a class="__content-card __card" href="./main.php?p=cuadro-sinoptico">
+                <a class="__content-card __card" href="./contenido.php?p=cuadro-sinoptico">
                         <figure class="__container-img">
                             <img src="https://crehana-public-catalog.imgix.net/images/resources/images/4ba8e303/95b7095a.jpg?auto=format&w=718&h=404&dpr=2&q=50&fit=crop" alt="img">
                         </figure>
@@ -76,7 +76,7 @@ session_start();
                         </div>
                 </a>
 
-                <a class="__content-card __card" href="./main.php?p=mapa-mental">
+                <a class="__content-card __card" href="./contenido.php?p=mapa-mental">
                         <figure class="__container-img">
                             <img src="https://prixz.com/salud/wp-content/uploads/2019/06/mapas-mentales-1024x576.jpg" alt="img">
                         </figure>
@@ -85,7 +85,7 @@ session_start();
                         </div>
                 </a>
 
-                <a class="__content-card __card" href="./main.php?p=debate">
+                <a class="__content-card __card" href="./contenido.php?p=debate">
                         <figure class="__container-img">
                             <img src="./img/imgIndex/imgDebate.jpeg" alt="img">
                         </figure>
@@ -100,7 +100,7 @@ session_start();
          <section class="__mt-2 __text-center">
              <div class="__container-968 __flex-center">
 
-             <a class="__content-card __card" href="./main.php?p=cuadro-comparativo">    
+             <a class="__content-card __card" href="./contenido.php?p=cuadro-comparativo">    
                         <figure class="__container-img">
                             <img src="https://cuadros-comparativos.com/wp-content/uploads/2021/12/Definicion-de-Objetivos-Generales-y-Objetivos-Especificos.jpg" alt="img">
                         </figure>
@@ -108,7 +108,7 @@ session_start();
                             <h3 class="__mt-b">Cuadro comparativo</h3>
                         </div>   
                 </a> 
-                <a class="__content-card __card" href="./main.php?p=mapa-conceptual">
+                <a class="__content-card __card" href="./contenido.php?p=mapa-conceptual">
                         <figure class="__container-img">
                             <img src="https://crehana-public-catalog.imgix.net/images/resources/images/5f9c57bb/6ead079d.jpg?auto=format&w=718&h=404&dpr=2&q=50&fit=crop" alt="img">
                         </figure>
@@ -117,7 +117,7 @@ session_start();
                         </div>
                 </a>
 
-                <a class="__content-card __card" href="./main.php?p=mesa-redonda">
+                <a class="__content-card __card" href="./contenido.php?p=mesa-redonda">
                         <figure class="__container-img">
                             <img src="./img/imgIndex/imgMesa.jpeg" alt="img">
                         </figure>
@@ -126,7 +126,7 @@ session_start();
                         </div>
                 </a>
 
-                <a class="__content-card __card" href="./main.php?p=simulacion">
+                <a class="__content-card __card" href="./contenido.php?p=simulacion">
                         <figure class="__container-img">
                             <img src="./img/imgIndex/imgSimulacion.jpeg" alt="img">
                         </figure>

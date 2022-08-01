@@ -6,7 +6,7 @@ $results = mysqli_num_rows($query);
 if ($results >= 1) { ?>
     <p class="r_search">RESULTADOS: <?php echo $results;?> </p>
     <?php while($getQuery = mysqli_fetch_array($query)){ ?>
-    <li><a class="a_1-0 dflex_1-1 aResult" href="main.php<?php echo '?p='.$getQuery["Busqueda"]; ?>"><?php echo strtoupper($getQuery["Nombre"]); echo ' "'.strtoupper($getQuery["Categoria"]).'"'; ?></a></li>
+    <li><a class="a_1-0 dflex_1-1 aResult" href="contenido.php<?php echo '?p='.$getQuery["Busqueda"]; ?>"><?php echo strtoupper($getQuery["Nombre"]); echo ' "'.strtoupper($getQuery["Categoria"]).'"'; ?></a></li>
     <br class="aResult">
     <?php } ?>
 <?php }else{ ?>

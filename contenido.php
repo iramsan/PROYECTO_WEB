@@ -1,3 +1,6 @@
+<?php
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,6 +14,7 @@
 </head>
 <body class="body">
     <?php require_once('./Views/VheaderMovile.php'); ?>
+    
     <main class="main ">
     <?php require_once('./Views/Vmenu.php'); ?>
         <section class="cont">

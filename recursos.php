@@ -27,7 +27,6 @@
         if (isset($_GET['p'])) {
             $x = $_GET['p'];
             $upQuery = mysqli_query($conex,"select r.Categoria,rr.Nombre,rr.UrlImagen,rr.Descarga from recurso as r JOIN rutarecurso as rr on r.Cod_recurso = rr.Categoria_id where r.Categoria='$x'");
-            // $getUrl = mysqli_fetch_array($upQuery);
             $acc = mysqli_num_rows($upQuery); ?>
             <div><p>Resultados: <?php echo $acc; ?></p></div>
             <div class="grid">

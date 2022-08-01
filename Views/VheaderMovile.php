@@ -1,6 +1,6 @@
 <?php 
-session_start();
-require_once('./Conf/Db_conex.php'); ?>
+require_once('./Conf/Db_conex.php'); 
+?>
 <header class="header">
     <h1 class="tittle hidden2">Kyoshi</h1>
     <!-- Icons -->
@@ -18,7 +18,7 @@ require_once('./Conf/Db_conex.php'); ?>
         <li class="li_1-0" id="jsBttnHome"><a href="./index.php"><img class="icon_1-0" src="./img/iconHome.png"></a></li>
             <li class="li_1-0" id="jsBttnsearchDesk"><a href="#"><img id="imgChangeSearchDesk" class="icon_1-0" src="./img/iconSearch.png"></a></li>
             <li class="li_1-0"><a href="#"><img class="icon_1-0" src="./img/iconShop.png"></a></li>
-            <li><a href="./main.php" class="a_1-0 hovers">Contenido</a></li>
+            <li><a href="./contenido.php" class="a_1-0 hovers">Contenido</a></li>
             <li><a href="./recursos.php" class="a_1-0 hovers">Recursos</a></li>
             
             <!-- <li class="dflex_1-1">
@@ -32,7 +32,8 @@ require_once('./Conf/Db_conex.php'); ?>
         <?php }else{ ?>
             <a href="./registro.php" id="" class="a_1-0 a_1-1">Iniciar Sesión</a>
             <a href="./registro.php" id="" class="a_1-0 a_1-1">Registrarte</a>
-            <?php } ?>
+            <?php 
+            } ?>
     
     </nav>
 </header>

@@ -1,4 +1,9 @@
 <?php session_start(); ?>
+<?php 
+    if (isset($_SESSION['logeado'])) {
+        header("Location: ./index.php");
+    }
+    ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -39,12 +44,7 @@
             </div>
         </div>
     </main>
-    <?php require_once('./Conf/ConfLogin.php'); 
-
-    if (isset($_SESSION['logeado'])) {
-        header("Location: ./index.php");
-    }
-    ?>
+    <?php require_once('./Conf/ConfLogin.php');  ?>
     <footer></footer>
 </body>
 </html>
