@@ -1,5 +1,6 @@
 <?php 
 require_once('./Conf/Db_conex.php'); 
+$conex = $inst->conex();
 ?>
 <header class="header">
     <h1 class="tittle hidden2">Kyoshi</h1>
@@ -27,13 +28,21 @@ require_once('./Conf/Db_conex.php');
             </li> -->
         </ul>
 
-        <?php if (isset($_SESSION['logeado'])) { ?>
-            <a class="a_1-0 a_1-1" href="./usuario.php"><?php echo $_SESSION['logeado'] ?></a>
+        <?php if (isset($_SESSION['logeado'])) { ?>        
+            <?php
+            $id = $_SESSION['idUser'];
+            $ddd = mysqli_query($conex,"SELECT * FROM usuario WHERE Cod_usuario='$id'");
+            while($row = mysqli_fetch_array($ddd)){ 
+                if ($row['img']!=null) { ?>
+                    <a href="./usuario.php" class="li_1-0"><img class="icon_1-0" src="<?php echo $row['img'] ?>"></a>
+                <?php }else{ ?>
+                    <img class="imgUser" src="https://img.icons8.com/ios-glyphs/344/user--v1.png" alt="">
+                <?php } } 
+            ?>
         <?php }else{ ?>
             <a href="./registro.php" id="" class="a_1-0 a_1-1">Iniciar Sesión</a>
             <a href="./registro.php" id="" class="a_1-0 a_1-1">Registrarte</a>
-            <?php 
-            } ?>
+            <?php } ?>
     
     </nav>
 </header>

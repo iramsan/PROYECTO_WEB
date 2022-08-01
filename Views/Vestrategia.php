@@ -11,7 +11,14 @@
 <section class="estrategies">
     <div class="plot">
         <h1 class="theme"><?php echo $getUrl["Nombre"]; ?></h1>
-        <a href="<?php echo $getUrl["Download"]; ?>" class="download">Descargar</a>
+
+        <?php if (isset($_SESSION['logeado'])) { ?>
+            <a href="<?php echo $getUrl["Download"]; ?>" class="download">Descargar</a>
+        <?php }else{ ?>
+            <a href="./registro.php" class="download">Descargar</a>
+        <?php } ?>
+
+
     </div>
     <?php
         $txt_file = fopen($getUrl["RutaTxt_1"].'.txt','r');

@@ -26,8 +26,12 @@ if (!empty($_POST['uploadData'])) {
                     $dataCompare = mysqli_num_rows($dataCompare);
                     if ($dataCompare == 0) {
                         $p = password_hash($_POST['passwor'], PASSWORD_BCRYPT);
-                        $sql = "INSERT INTO usuario (Nombre,Email,Contraseña) VALUES ('$u','$e','$p')";
+                        $img = "https://joeschmoe.io/api/v1/random";
+                        $randomNumber = rand(1,10000);
+                        $imgGenerator = $img.$randomNumber;
+                        $sql = "INSERT INTO usuario (Nombre,Email,Contraseña,img) VALUES ('$u','$e','$p','$imgGenerator')";
                         $response->insertQuery($conex,$sql);
+
                         echo "<p class='alertSuccess'>Usuario creado con exito</p>";
                     }else{
                         echo "<p class='alertFail'>El correo ya existe</p>";
@@ -79,7 +83,8 @@ if (!empty($_POST['validate'])) {
                     $_SESSION['idUser'] = $row['Cod_usuario'];
                     $_SESSION['logeado'] = $row['Nombre'];
                     $_SESSION['e'] = $row['Email'];
-                    $_SESSION['p'] = $row['Contraseña']; ?>
+                    $_SESSION['p'] = $row['Contraseña']; 
+                    ?>
                    <script> window.location.replace("./index.php"); </script>
                 <?php }else{
                     echo "<p class='alertFail'>Nombre y/o contraseña no coinciden</p>";

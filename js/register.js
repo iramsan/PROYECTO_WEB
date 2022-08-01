@@ -6,3 +6,4 @@ noAcount.addEventListener("click", () => moveContBox.style.transform = `translat
 
 const bttLogBack = document.getElementById("bttLogBack");
 bttLogBack.addEventListener("click",() => moveContBox.style.transform = `translateX(0)`);
+
