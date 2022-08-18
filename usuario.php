@@ -33,7 +33,11 @@ if (!isset($_SESSION['logeado'])) {
                 <?php } } 
             ?>
             <a class="bttAcount bttAcountClose" href="./Conf/ConfLogout.php">Cerrar cuenta</a>
-            <a class="bttAcount bttAcountDelete" id="deleteAcount" href="#">Borrar Cuenta</a>
+            <?php
+            $lgd = $_SESSION['logeado'];
+            if (!($lgd == "Admin")) { ?>
+                <a class="bttAcount bttAcountDelete" id="deleteAcount" href="#">Borrar Cuenta</a>
+            <?php } ?>
      </aside>
     
     <main class="boxUserData">

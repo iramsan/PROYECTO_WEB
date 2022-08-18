@@ -4,7 +4,7 @@ class ConnectionDataBase{
         $serverName = "localhost";
         $user = "root";
         $pass = "";
-        $db = "id19236313_kyo";
+        $db = "id19236313_prjc";
         try {
             $conex = new mysqli($serverName,$user,$pass,$db);
             return $conex;

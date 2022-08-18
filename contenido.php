@@ -20,7 +20,7 @@ session_start();
         <section class="cont">
             <?php include('./Conf/ConfView.php'); ?>
         </section>
-    <?php #require_once('Views/Vfooter.php');?>
+    <?php require_once('Views/Vfooter.php');?>
     </main>
 </script>
 </body>

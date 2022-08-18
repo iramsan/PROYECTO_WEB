@@ -1,0 +1,13 @@
+<p class="txtG">¿Qué son?</p>
+as preguntas literales (García, 2001) hacen referencia a ideas, datos y conceptos que aparecen directamente expresados en un libro, un capítulo, un artículo o algún otro documento.Las preguntas implican respuestas que incluyen todas las ideas importantes expresadas en 
+el texto.
+<p class="txtG">¿Cómo se plantean?</p>
+<span class="indices">a)</span> Se identifican las ideas y los detalles importantes expresados en el texto.
+<span class="indices">b)</span> Se plantean las preguntas que generalmente empiezan con los pronombres interrogativos: qué, cómo, cuándo, dónde.
+<span class="indices">c)</span> Pueden iniciarse con las acciones a realizar: explica, muestra, define, etcétera.
+<span class="indices">d)</span> Es posible que las formulen los profesores, o bien, se solicita a los estudiantes que las planteen.
+<p class="txtG">¿Para qué se utilizan?</p>
+Las preguntas literales permiten:
+<span class="indices">•</span> Identificar las ideas principales de un texto.
+<span class="indices">•</span> Identificar detalles.
+<span class="indices">•</span> Cuestionar conceptos.

@@ -1,0 +1,18 @@
+<p class="txtG">¿Qué son?</p>
+Las preguntas exploratorias son cuestionamientos que se refieren a los significados, las implicaciones y los propios intereses despertados.
+<p class="txtG">¿Cómo se realizan?</p>
+<span class="indices">a)</span> Se elige un tema, un experimento o una situación.
+<span class="indices">b)</span> El profesor formula preguntas exploratorias, o también es posible solicitar a los estudiantes que las formulen.
+Pueden iniciarse así:
+<span class="indices">•</span> ¿Qué significa...?
+<span class="indices">•</span> ¿Cómo se relaciona con...?
+<span class="indices">•</span> ¿Qué sucede si yo cambio...?
+<span class="indices">•</span> ¿Qué más se requiere aprender sobre...? 	
+<span class="indices">•</span> ¿Qué argumentos te convencen más acerca de...?
+<span class="indices">c)</span> Las preguntas se contestan con referencia a datos, ideas y detalles expresados en una lectura; sin embargo, la esencia de esta estrategia es que las respuestas no aparecen directamente en el texto, por lo que es necesaria una elaboración personal del estudiante.
+<span class="indices">d)</span> La utilización de un esquema es opcional.
+<p class="txtG">¿Para qué se utilizan?</p>
+Las preguntas exploratorias permiten:
+<span class="indices">•</span> Indagar conocimientos previos.
+<span class="indices">•</span> Descubrir los propios pensamientos o inquietudes.
+<span class="indices">•</span>  Desarrollar el análisis, además del razonamiento crítico y creativo.

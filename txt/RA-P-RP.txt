@@ -1,0 +1,14 @@
+<p class="txtG">¿Qué es?</p>
+Es una estrategia que nos permite construir significados en tres momentos representados por una pregunta, una respuesta anterior o anticipada y una respuesta posterior.
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se comienza con las preguntas, ya sea por parte del profesor o de los estudiantes. 
+<span class="indices">b)</span> Se inicia con preguntas medulares del tema.Preguntas: se plantean preguntas iniciales del tema. Este es el punto de partida para que los alumnos den una respuesta anterior y una posterior. 
+<span class="indices">c)</span> Posteriormente, las preguntas se responden con base en los conocimientos previos (lo que se conoce del tema).Respuesta anterior: conocimientos previos de los alumnos acerca del tema. 
+<span class="indices">d)</span> Después se procede a leer un texto u observar un objeto de estudio.
+<span class="indices">e)</span> Se procede a contestar las preguntas con base en el texto u objeto observado.Respuesta posterior: después del análisis de la información leída u observada se responden las preguntas iniciales.
+<p class="txtG">¿Para qué se utiliza?</p>
+La estrategia ra-p-rp permite:
+<span class="indices">•</span> Indagar conocimientos previos.
+<span class="indices">•</span> Desarrollar un pensamiento crítico.
+<span class="indices">•</span> Desarrollar la metacognición.
+<span class="indices">•</span> Desarrollar la comprensión.

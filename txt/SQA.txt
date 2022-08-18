@@ -1,0 +1,17 @@
+<p class="txtG">¿Qué significa SQA?</p>
+Es el nombre de una estrategia (Ogle, 1986) que permite motivar al estudio; primero, indagando en los conocimientos previos que posee el estudiante, para después, cuestionarse acerca 
+de lo que desea aprender y, finalmente, para verificar lo que ha aprendido.
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se presenta un tema, un texto o una situación y posteriormente se solicita a los estudiantes que determinen lo que saben acerca del tema
+<span class="indices">b)</span> Los alumnos tendrán que responder con base en las siguientes afirmaciones:
+Lo que sé: Son los organizadores previos; es la información que el alumno conoce.
+Lo que quiero saber: Son las dudas o incógnitas que se tienen sobre el tema.
+Lo que aprendí: Permite verificar el aprendizaje significativo alcanzado.
+<span class="indices">c)</span> El último aspecto (lo que aprendí) se debe responder al finalizar el proceso de enseñanza y aprendizaje, en la etapa de evaluación. 
+<span class="indices">d)</span>  Se pueden organizar las respuestas en un organizador gráfico; sin embargo, tradicionalmente se utiliza una tabla de tres columnas. 
+<p class="txtG">¿Para qué se utiliza?</p>
+La estrategia sqa permite:
+<span class="indices">•</span> Indagar conocimientos previos. 
+<span class="indices">•</span> Que los alumnos identifiquen las relaciones entre los conocimientos que ya poseen y los que van a adquirir.   
+<span class="indices">•</span> Plantear preguntas a partir de un texto, un tema o una situación presentados por el profesor.
+<span class="indices">•</span> La generación de motivos que dirijan la acción de aprender.

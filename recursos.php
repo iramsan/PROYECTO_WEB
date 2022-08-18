@@ -60,6 +60,6 @@
         ?>
         </div>
      </section>
-     <a class="bttup" href="#"><img class="icon_1-0" src="./img/iconUp.png" alt=""></a>
+     <?php require_once('Views/Vfooter.php');?>
 </body>
 </html>
