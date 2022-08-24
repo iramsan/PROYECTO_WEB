@@ -11,7 +11,7 @@ if (isset($_GET['p'])) {
     $getUrl = mysqli_fetch_array($upQuery);    
 
     if ($getUrl["Categoria"]=="Estrategia") {
-        require_once('./Views/Vestrategia.php');
+        require_once('./Views/vestrategia.php');
     }elseif($getUrl["Categoria"]=="Metodologia"){
         require_once('./Views/Vmetodologia.php');
     }elseif($getUrl["Categoria"]=="ContenidoEstrategias"){
@@ -35,10 +35,10 @@ function showEstra($q, $img){ ?>
     <img class="imgResBanner" src="<?php echo $img; ?>" alt="">
     <div class="grid">
     <?php while($showResour = mysqli_fetch_array($q)){ ?>
-        <div class="block padding">
+        <div class="block padding edit_cart">
             <p><?php echo $showResour['Nombre']; ?></p>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusamus corrupti quibusdam magni autem n eligendi laboriosam natus sunt eaque?</p>
-            <a class="aDownloadResour" href="?p=<?php echo $showResour['Busqueda']; ?>">Saber Mas...</a>
+            <a class="aDownloadResour color_blanco bg_color_1" href="?p=<?php echo $showResour['Busqueda']; ?>">Saber Mas...</a>
         </div>
     <?php } ?>
     </div>

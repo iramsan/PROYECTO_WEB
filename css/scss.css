@@ -1,0 +1,126 @@
+.navegar{
+    position: fixed;
+    left: 0;
+    top: 65px;
+    right: 0;
+    z-index: 5;
+    background-color: white;
+    padding-top: 1rem;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    transition: 0.5s;
+}
+.dis_d_flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.dis_d_flex_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.dis_a{
+    text-decoration: none;
+    color: black;
+    margin-top: 1rem;
+}
+.bt{
+    width: 100%;
+    border-top: 1px solid gray;
+}
+.mgtop{
+    margin-top: 1rem;
+}
+.mg_none{
+    margin-bottom: 1rem;
+}
+
+
+
+
+#evento-click{
+    display: none;
+}
+.ocultar{
+    display: none;
+}
+#evento-click:checked ~ .ocultar{
+    display: block;
+}
+
+/* publicidad */
+
+.advertising{
+    display: flex;
+    flex-direction: column;
+    /* overflow: hidden; */
+}
+.adverImg{
+    width: 150px;
+}
+
+.sticky{
+    position: sticky;
+    top: 80px;
+}
+
+.advertising_h{
+    display: flex;
+    margin: 0.5rem;
+    justify-content: center;
+    align-items: center;
+}
+.adverImg_h{
+    max-width: 800px;
+}
+.timer{
+    display: flex;
+    flex-direction: column;
+    border-radius: 3px;
+    justify-content: center;
+    align-items: center;
+    row-gap: 1rem;
+}
+.botonTimer{
+    font-size: 15px;
+    color: #000;
+    text-decoration: none;
+    padding: 1rem 0;
+    border-radius: 5px;
+    background-color: white;
+    border: none;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    width: 300px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+.sabeDemasiado{
+    display: none;
+}
+.botonTimer:active{
+    transform: scale(0.5);
+}
+@media (max-width: 1280px) {
+    .partir{
+        grid-template-columns: 1fr;
+    }
+    .advertising{
+        display: none;
+    }
+}
+@media (max-width: 992px) {
+    .dis_jus{
+        justify-content: space-between;
+        align-items: center;
+    }
+    .advertising_h{
+        margin-top: 66px;
+    }
+    .adverImg_h{
+        width: 100%;
+    }
+    .aparta{
+        margin: 0;
+    }
+}

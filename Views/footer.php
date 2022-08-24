@@ -1,4 +1,4 @@
-<footer class="d-flex justify-between aling-items-center pxy-1 bs-t flex-direction-col-xl">
+<footer class="d-flex justify-between aling-items-center pxy-1 bs-t flex-direction-col-xl bg_cl_b">
     <a class="d-flex aling-items-center nav-link text-color-black mb-05-xl" href="index.php">
         <!-- <img src="./img/iconLogo.png" alt="logo-kio"> -->
         <h1>Kyoshi</h1>

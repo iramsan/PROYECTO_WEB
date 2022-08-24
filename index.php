@@ -8,16 +8,20 @@ session_start();
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="https://cdn.iconscout.com/icon/free/png-256/small-diamond-geometric-blue-38006.png">
+
+    <title>Kyoshi-Principal</title>
     <link rel="stylesheet" href="./css/officialCss.css">
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="./css/scss.css">
+
 </head>
 
 <body>
     <?php require_once('./Views/VheaderAll.php') ?>
     <main class="d-flex flex-direction-col container-100 mt-5">
 
-        <div class="d-flex flex-direction-col mb-5 bg-gray py-2 py-1-sm py-1-md px-1-md py-1-xl">
+        <div class="d-flex flex-direction-col mb-5 bg_gray py-2 py-1-sm py-1-md px-1-md py-1-xl">
             <div class="d-flex aling-items-center container-968 d-block-md px-1-sm px-1-md px-1-xl text-align-center-sm">
                 <h3>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure animi sed facere eius, expedita id sequi reiciendis excepturi ut officiis?</h3>
                 <figure class="figure">
@@ -50,7 +54,7 @@ session_start();
             </div>
         </div>
         <!--Tienda en linea-->
-        <div class="d-flex justify-center flex-direction-col mb-5 bg-gray py-2 px-1-sm px-1-md px-1-xl">
+        <div class="d-flex justify-center flex-direction-col mb-5 bg-yellow py-2 px-1-sm px-1-md px-1-xl">
             <h2 class="text-align-center mb-1 py-1-sm py-1-md py-1-xl">Tienda en linea</h2>
             <div class="d-flex justify-center aling-items-center container-968 d-block-sm d-block-md text-align-center-sm">
                 <h3 class="mr-05">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eos explicabo fugit quia distinctio? Porro quasi pariatur earum. Repudiandae et sint vero dolore! Perferendis eaque at modi similique perspiciatis alias esse.</h3>

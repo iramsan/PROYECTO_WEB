@@ -12,6 +12,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inicia sesion o registrate</title>
     <link rel="stylesheet" href="./css/officialCss.css">
+    <link rel="stylesheet" href="./css/scss.css">
     <script defer src="./js/register.js"></script>
 </head>
 <body>
@@ -34,7 +35,6 @@
                 <section class="formBox">
                     <h1>Registrarte</h1>
                     <form class="form" action="./registro.php" method="post">
-                        <a class="forgetP" href="#" id="bttLogBack">Logearse</a>
                         <label for="" class="labelR">Nombre de usuario</label>
                         <input class="inpInfo" type="text" id="" name="username" placeholder="nombre" >
                         <label for="" class="labelR">Correo</label>
@@ -44,6 +44,8 @@
                         <label for="" class="labelR">Confirmar contraseña</label>
                         <input class="inpInfo" type="password" id="" name="confirm_password" placeholder="8 caracteres minimo" >
                         <input class="inpSend" type="submit" value="Sign up" name="uploadData">
+                        <span class="li_1-1 any_txt centertxt">Ya tienes una cuenta <a class="" href="#" id="bttLogBack">iniciar sesion</a></span>
+
                     </form>
                 </section>
             </div>

@@ -1,0 +1,38 @@
+¿Qué planeta es el más cercano al Sol?
+<button onclick=correcto()>Mercurio</button>
+<button onclick=reiniciar()>Marte</button>
+<button onclick=reiniciar()>Urano</button>
+¿Cuántas patas tiene una araña?
+<button onclick=reiniciar()>12</button>
+<button onclick=correcto()>8</button>
+<button onclick=reiniciar()>6</button>
+¿Cuántos meses tienen 28 días?
+<button onclick=reiniciar()>4</button>
+<button onclick=reiniciar()>1</button>
+<button onclick=correcto()>12</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

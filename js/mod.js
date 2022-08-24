@@ -80,7 +80,7 @@ const imgChangeSearchDesk = document.getElementById("imgChangeSearchDesk");
 
 const jsBttnsearchDesk = document.getElementById("jsBttnsearchDesk");
 jsBttnsearchDesk.addEventListener("click",function (){
-    console.log("XD");
+    // console.log("XD");
     const x = jsBoxSearch.classList.toggle("showSearch");
     if (x) {
         imgChangeSearchDesk.src="./img/iconClose.png";

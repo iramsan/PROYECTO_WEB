@@ -15,6 +15,7 @@ if (!isset($_SESSION['logeado'])) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="./css/officialCss.css">
+    <link rel="stylesheet" href="./css/scss.css">
     <script defer src="./js/dropAcoutn.js"></script>
 </head>
 <body>

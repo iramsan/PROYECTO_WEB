@@ -1,32 +1,33 @@
 <?php require_once('./Conf/CofMenu.php'); ?>
-<div class="">
-    <nav class="menu scroolMenu" id="menu">
+
+<div class="p_fix top_0 bottom_0 scroolMenu mg_top_66 lef_320" id="menu">
+    <nav class="menu" id="menu">
         <ul class="ul_1-1">
             <!-- Estrategias -->
             <li class="li_1-1"><a href="?p=estrategias" class="li_1-4 li_1-2">Estrategias</a></li>
             <li><ul class="ul_1-1">
             <li class="margin"><a href="#" class="li_1-3">Indagar en conocimientos</a></li>
                 <?php while ($row = mysqli_fetch_array($menu_1)) { ?>
-                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2 hover_txt"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
                 <li class="margin_2" id="jsBPreguntas"><a href="#" class="li_1-2">Peguntas<img src="./img/iconArrow2.png" alt="iconArrow" class="icon_1-2"></a></li>
                 <li class="margin"><a href="#" class="li_1-3">Promover la comprensión</a></li>
                 <?php while ($row = mysqli_fetch_array($menu_2)) { ?>
-                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2 hover_txt"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
                 <li class="margin_2" id="jsBDiagrama"><a href="#" class="li_1-2">Diagramas<img src="./img/iconArrow2.png" alt="iconArrow" class="icon_1-2"></a></li>
                 <li class="margin_2" id="jsBMapas"><a href="#" class="li_1-2">Mapas cognitivos<img src="./img/iconArrow2.png" alt="iconArrow" class="icon_1-2"></a></li>
                 <li class="margin_2" id="jsBOtras"><a href="#" class="li_1-2">otras estrategias<img src="./img/iconArrow2.png" alt="iconArrow" class="icon_1-2"></a></li>
                 <li class="margin_2"><a href="#" class="li_1-3">Grupales</a></li>
                 <?php while ($row = mysqli_fetch_array($menu_3)) { ?>
-                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2 hover_txt"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
             </ul></li>
             <!-- Metodologias -->
             <li class="li_1-1"><a href="?p=metodologias" class="li_1-4 li_1-2">Metodologias</a></li>
             <li><ul class="ul_1-1">
             <?php while ($row = mysqli_fetch_array($menu_4)) { ?>
-                    <li class="margin_2"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
+                    <li class="margin_2 hover_txt"><a href="?p=<?php echo $row["Busqueda"] ?>" class="a_1-0"><?php echo $row["Nombre"] ?></a></li>
                 <?php } ?>
             </ul></li>
         </ul>

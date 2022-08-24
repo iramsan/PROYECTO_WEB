@@ -40,7 +40,7 @@ body{
     margin-top: 2rem;
 }
 .mt-5{
-    margin-top: 5rem;
+    margin-top: 66px;
 }
 .mt-10{
     margin-top: 10rem;
@@ -141,11 +141,17 @@ body{
 .bg-gray{
     background-color: var(--color-fondo);
 }
+.bg_gray{
+    background-color: gray;
+}
 .bg-white{
     background-color: var(--color-white);
 }
 .bg-blue{
     background-color: var(--color-blue);
+}
+.bg-yellow{
+    background-color: #ffcc11;
 }
 /*FLEX*/
 .d-flex{
@@ -225,7 +231,7 @@ body{
     cursor: pointer;
 }
 .btn-green{
-    background-color: var(--color-green);
+    background-color: #1363d7;
 }
 .btn-blue{
     background-color: var(--color-blue);

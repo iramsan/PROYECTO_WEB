@@ -13,6 +13,7 @@ function startInterval(){
     index++;
     move();
 }
+
 function move(){
     if (index > imgArticle.length-4) {
         index = 0;

@@ -7,7 +7,7 @@ class Model extends ConnectionDataBase{
             $query = "select m.Nombre,m.Busqueda,r.Ruta from menu as m JOIN rutas as r on m.Cod_Menu=r.Referencia where Busqueda='$x'";
             $upQuery = mysqli_query($conexDB, $query);
             $getUrl = mysqli_fetch_array($upQuery);
-            require_once(/*$getUrl['Ruta'].*/'./Views/Vestrategia.php');
+            require_once(/*$getUrl['Ruta'].*/'./Views/vestrategia.php');
             return $getUrl;
         }else{
             echo "No se encontro nada";

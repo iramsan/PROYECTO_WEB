@@ -9,36 +9,6 @@ function buscar_ahora(buscar) {
     }
     });
 }
-function bucar_index(buscar) {
-    var parametros = {"buscar":buscar};
-    $.ajax({
-        data:parametros,
-        type: 'POST',
-        url: './Conf/ConfSearch.php',
-        success: function(data) {
-        document.getElementById("getdata").innerHTML = data;
-    }
-    });
-}
-function datos() {
-    let visible = false;
-    let boton = document.getElementById("Bttn_login");
-    boton.addEventListener("click", mostrar);
-    
-    function mostrar() {
-        let formulario = document.getElementById("formulario");
-        if (!visible) {
-            formulario.style.display = "block";
-            boton.innerHTML = "Cerrar"
-            visible = true;
-        } else {
-            formulario.style.display = "none";
-            boton.innerHTML = "Iniciar sesión";
-            visible = false;
-        }
-    }
-}
-onload = datos();
 // Preguntas
 const BPopen = document.querySelector(".BPopen");
 BPopen.addEventListener("click",fBPopen);
