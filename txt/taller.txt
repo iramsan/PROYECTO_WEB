@@ -1,0 +1,26 @@
+<p class="txtG">¿Qué es?</p>
+El taller es una estrategia grupal que implica la aplicación de los conocimientos adquiridos en una tarea específica, generando un producto que es resultado de la aportación de cada uno de los miembros del equipo.
+Al realizar un taller se debe promover un ambiente flexible, contar con una amplia gama de recursos y herramientas para que los alumnos trabajen el producto esperado.
+Su duración es relativa a los objetivos perseguidos o las competencias a trabajar; por ello, puede llevarse a cabo en un día o en varias sesiones de trabajo. Es importante que dentro del taller se lleve a cabo el aprendizaje colaborativo, para lo cual es ideal asignar roles entre los miembros de los equipos.
+
+<p class="txtG">¿Cómo se realiza?/p>
+<span class="indices">a)</span> Se expone de manera general el tema a trabajar, aportando elementos teóricos para el posterior desarrollo de una tarea o un producto durante el taller.
+<span class="indices">b)</span> Se asignan los equipos y los roles, así como el tiempo determinado para trabajar en los mismos.
+<span class="indices">c)</span> Se muestran los recursos, los materiales y las herramientas para el desarrollo del taller.
+<span class="indices">d)</span> Los equipos trabajan e interactúan durante el tiempo asignado.
+<span class="indices">e)</span> El monitor o docente deberá supervisar, asesorar y dar seguimiento a cada uno de los equipos para la consecución de la tarea o el producto.
+<span class="indices">f)</span> Cada uno de los equipos expone ante el grupo el proceso de trabajo y los productos alcanzados.
+<span class="indices">g)</span> Se efectúa una discusión.
+<span class="indices">h)</span> Se amplía o explica determinada información.
+<span class="indices">i)</span> Se presentan las conclusiones.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Encontrar la solución de problemas.
+<span class="indices">•</span> Llevar a cabo tareas de aprendizaje complejas.
+<span class="indices">•</span> Desarrollar la capacidad de búsqueda de información.
+<span class="indices">•</span> Desarrollar el pensamiento crítico: análisis, síntesis, evaluación y emisión de juicios.
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

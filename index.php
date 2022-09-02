@@ -15,10 +15,18 @@ session_start();
     <link rel="stylesheet" href="./css/style.css">
     <link rel="stylesheet" href="./css/scss.css">
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script defer src="./js/mod.js"></script>
+    <script src="./js/search.js" defer></script>
+
 </head>
 
-<body>
-    <?php require_once('./Views/VheaderAll.php') ?>
+<body id="body">
+    <?php 
+    require_once('./Views/VheaderAll.php');
+    include('./elemetos/searchIndex.php');
+    ?>
+
     <main class="d-flex flex-direction-col container-100 mt-5">
 
         <div class="d-flex flex-direction-col mb-5 bg_gray py-2 py-1-sm py-1-md px-1-md py-1-xl">

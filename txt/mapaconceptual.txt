@@ -1,0 +1,34 @@
+<p class="txtG">¿Qué es?</p> El mapa conceptual (Novak y Godwin, 1999) es una representación gráfica de conceptos y sus relaciones. Los conceptos guardan entre sí un orden jerárquico y están unidos por líneas identificadas por palabras (de enlace) que establecen la relación que hay entre ellas.
+Se caracteriza por partir de un concepto principal (de mayor grado de inclusión), del cual se derivan ramas que indican las relaciones entre los conceptos.
+
+<p class="txtG">¿Como se realiza?</p>
+<span class="indices">a)</span> El primer paso es leer y comprender el texto.
+<span class="indices">b)</span> Se localizan y se subrayan las ideas o palabras más  importantes (es decir, las palabras clave). Se recomiendan 10 como máximo.
+<span class="indices">c)</span> Se determina la jerarquización de dichas palabras clave.
+<span class="indices">•</span> Se identifica el concepto más general o inclusivo.
+<span class="indices">•</span> Se ordenan los conceptos por su grado de subordinación apartir del concepto general o inclusivo.
+<span class="indices">d)</span> Se establecen las relaciones entre las palabras clave. Para ello, es conveniente utilizar líneas para unir los conceptos.
+<span class="indices">e)</span> Es recomendable unir los conceptos con líneas que incluyan palabras que no son conceptos para facilitar la identificación de las relaciones. 
+<span class="indices">f)</span> Se utiliza correctamente la simbología:
+<span class="indices">•</span> Ideas o conceptos.
+<span class="indices">•</span> Conectores.
+<span class="indices">•</span> Flechas (se pueden usar para acentuar la direccionalidad de las relaciones).
+<span class="indices">g)</span> En los mapas conceptuales los conceptos se ordenan de izquierda (conceptos particulares). a derecha.
+
+<p class="txtG">¿para que se utiliza?</p>
+Ayudan a:
+<span class="indices">•</span> Identificar conceptos o ideas clave de un texto y establecer relaciones entre ellos.
+<span class="indices">•</span> Interpretar, comprender e inferir la lectura realizada.
+<span class="indices">•</span> Promover un pensamiento lógico.
+<span class="indices">•</span> Establecer relaciones de subordinación e interrelación.
+<span class="indices">•</span> Insertar nuevos conocimientos en la propia estructura del pensamiento.
+<span class="indices">•</span> Indagar conocimientos previos.
+<span class="indices">•</span> Aclarar concepciones erróneas.
+<span class="indices">•</span> Identificar el grado de comprensión en torno a un tema.
+<span class="indices">•</span> Organizar el pensamiento.
+<span class="indices">•</span> Llevar a cabo un estudio eficaz.
+<span class="indices">•</span> Visualizar la estructura y organización del pensamiento.
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

@@ -1,0 +1,35 @@
+<p class="txtG">¿Qué es?</p>
+El aprendizaje cooperativo implica aprender mediante equipos estructurados y con roles bien definidos, orientados a resolver una tarea específica a través de la colaboración. Esta metodo- logía está compuesta por una serie de estrategias instruccionales.
+
+<p class="txtG">Los componentes del aprendizaje cooperativo son: </p>
+<span class="indices">1</span> Cooperación. Para lograr las metas planteadas los estudiantes deben trabajan en forma colaborativa.
+<span class="indices">2</span> Responsabilidad. Los estudiantes asumen el rol designado y participan de manera com- prometida en el logro de la tarea asignada.
+<span class="indices">3</span> Comunicación. Para lograr las metas planteadas, los estudiantes deben estar en constan- te comunicación y retroalimentación entre sí y con el docente.
+<span class="indices">4</span> Trabajo en equipo.
+<span class="indices">5</span> Interacción cara a cara.
+<span class="indices">6</span> Autoevaluación. Es una tarea que todos los miembros del equipo deben realizar y en todo momento del proceso de realización de la tarea.
+
+<span class="indices">•</span>
+El profesor se encargará de organizar la conformación de los equipos cuidando la heterogeneidad de los mismos, lo cual requiere que el docente conozca la dinámica del grupo y las habilidades de sus alumnos. Los equipos deben tener un número de tres o cinco alumnos; debe cuidarse que el número de integrantes sea impar.
+Los roles básicos que deben identificarse en un equipo son tres: el líder, el secretario y el relator o comunicador. Sin embargo, existen otros roles que pueden asignarse como: supervisor del tiempo, encargado del material y responsable de la tecnología. Los roles se asignan al azar, o bien, con base en las habilidades de los alumnos, pero se recomienda que se cambie de rol y de equipo a los alumnos.
+Es importante que los estudiantes trabajen el tiempo necesario en el equipo de tal forma que puedan conocer a sus compañeros, pero también se les debe brindar la oportunidad de conocer a otros alumnos; para ello, es recomendable cambiar a los integrantes de equipo conforme avanza el ciclo escolar.
+
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se identifica una meta.
+<span class="indices">b)</span> Se integran los equipos.
+<span class="indices">c)</span> Se definen roles.
+<span class="indices">d)</span> Se realizan actividades.
+<span class="indices">e)</span> Se busca la complementariedad.
+<span class="indices">f)</span> Se realiza una sesión plenaria para compartir los resultados alcanzados, así como la experiencia de trabajar en equipo.
+
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Realizar un análisis profundo de un problema en su contexto.
+<span class="indices">•</span> Desarrollar habilidades sociales.
+<span class="indices">•</span> Que los alumnos conozcan sus habilidades y aspectos a mejorar en el trabajo en equipo.
+<span class="indices">•</span> Identificar los líderes del grupo.
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

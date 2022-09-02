@@ -1,0 +1,30 @@
+<p class="txtG">¿Qué es?</p>
+Es un diagrama jerárquico que permite identificar un proceso; tiene una simbología específica para una adecuada lectura.
+
+<p class="txtG">La simbología se compone básicamente de:</p>
+<span class="indices">•</span> Óvalo: Inicio y término del proceso.
+<span class="indices">•</span> Rectángulo: Actividad o procedimientos.
+<span class="indices">•</span> Rombo: Decisión, formula una pregunta o cuestión.
+<span class="indices">•</span> Círculo: Conector, es el enlace de actividades dentro de un procedimiento.
+<span class="indices">•</span> Flechas: Indican la direccionalidad del proceso.
+
+<p class="txtG">¿Como se realiza?</p>
+
+<span class="indices">a)</span> Se identifica el proceso a ilustrar.
+<span class="indices">b)</span> Se elabora una lista de pasos, actividades o sub procesos que conforman el proceso.
+<span class="indices">c)</span> Se establece qué se espera del proceso.
+<span class="indices">d)</span> Se formulan preguntas clave de los sub procesos.
+<span class="indices">e)</span> Se elabora el diagrama de flujo con base en la simbología predeterminada.
+<span class="indices">f)</span> se verifica el proceso.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+El diagrama de flujo permite:
+<span class="indices">•</span> Esquematizar procesos que requieren una serie de actividades, sub procesos o pasos definidos y sobre los cuales hay que tomar decisiones.
+<span class="indice s">•</span> Analizar un proceso.
+<span class="indices">•</span>  Enfocar al aprendizaje sobre actividades específicas; en esa labor auxilia al profesor y al estudiante.
+<span class="indices">•</span> Redefinir procesos de acuerdo con los resultados de haberlo implementado.
+<span class="indices">•</span> Plantear hipótesis.
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

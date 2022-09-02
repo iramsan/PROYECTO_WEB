@@ -1,0 +1,12 @@
+<p class="txtG">¿Qué es?</p>
+Es un esquema que se conforma por una serie de recuadros que simu- lan cajas o cajones; de ahí el nombre. En la caja superior se anota el tema o la idea central. En el segundo nivel se sintetiza la información de cada uno de los subtemas.
+
+<p class="txtG">¿Cómo se realiza?</p>
+
+<span class="indices">a)</span> Se identifican los conceptos más generales e inclusivos del tema.  
+<span class="indices">b)</span> En las siguientes cajas se describe el tema o idea central.
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

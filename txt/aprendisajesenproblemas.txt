@@ -1,0 +1,31 @@
+<p class="txtG">¿Qué es?</p> 
+El aprendizaje basado en problemas es una metodología en la que se investiga, interpreta, argumenta y propone la solución a uno o varios problemas, creando un escenario simulado de posible solución y analizando las probables consecuencias. El alumno desempeña un papel activo en su aprendizaje, mientras que el docente es un mediador que guía al estudiante para solucionar un problema.
+Los problemas deben alentar a los estudiantes a participar en escenarios relevantes al facilitar la conexión entre la teoría y su aplicación. Se puede trabajar con problemas abiertos o cerrados; los primeros resultan idóneos para el nivel universitario, pues son complejos y desafían a los alumnos a dar justificaciones y a demostrar habilidades de pensamiento.
+
+<p class="txtG"></p>
+<span class="indices">a)</span> Formar equipos de trabajo de entre tres y siete alumnos en caso de que el problema así lo requiera.
+<span class="indices">b)</span> Se asignan roles a los miembros del equipo. Por lo menos se deben considerar los siguientes: líder, secretario y reportero.
+<span class="indices">c)</span> Elaborar reglas de trabajo.
+<span class="indices">d)</span> Analizar el contexto junto con los estudiantes. Se puede partir de un texto o un caso para lo cual es importante aclarar términos y conceptos.
+<span class="indices">e)</span> Los alumnos identificarán el problema. 
+<span class="indices">f)</span> Se formularán hipótesis.
+<span class="indices">g)</span> Se establecerán alternativas.
+<span class="indices">h)</span> Se selecciona la mejor alternativa.
+<span class="indices">i)</span> Durante el proceso, el docente supervisará y asesorará el trabajo de los estudiantes.
+<span class="indices">j)</span> Se pone a prueba la alternativa mediante una simulación.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Ayuda a analizar con profundidad un problema.
+<span class="indices">•</span> Desarrolla la capacidad de búsqueda de información, así como su análisis e interpretación.
+<span class="indices">•</span> Favorece la generación de hipótesis, para someterlas a prueba y valorar los resultados.
+<span class="indices">•</span> Vincula el mundo académico con el mundo real.
+<span class="indices">•</span> Favorece el aprendizaje cooperativo.
+<span class="indices">•</span> Permite desarrollar la habilidad de toma de decisiones.
+
+
+
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

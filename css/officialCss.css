@@ -140,6 +140,7 @@ html, body{
 }
 .searchBoxinside{
     margin-top: 1rem;
+    margin-bottom: 1rem;
 }
 .showSearch{
     top: 66px;
@@ -151,6 +152,7 @@ html, body{
     margin-top: 1rem;
     list-style: none;
     padding: 0;
+    display: none;
 }
 .r_search{
     color: #109a06;
@@ -166,6 +168,18 @@ html, body{
 }
 
 /* SCROOL */
+.scroolIndex{
+    z-index: 0;
+    overflow: scroll;
+    max-height: 150px;
+    overflow-x: hidden;
+}
+.adjust{
+    padding: 0.5em;
+    list-style: none;
+    padding: 0;
+    display: none;
+}
 .scrool{
     overflow: scroll;
     max-height: 300px;
@@ -984,7 +998,9 @@ html, body{
     background-color: var(--azul3);
 }
 .destacar{
-    /* font-size: 18px; */
+    font-size: 18px;
+    color: var(--negro);
+    /* text-shadow: var(--negro) 1px 1px 1px;     */
 }
 .hover_txt:hover{
     text-decoration: underline;
@@ -997,4 +1013,14 @@ html, body{
 
 .margin_top{
     margin-top: 1rem;
+}
+.margin_top_2{
+    margin-top: 3rem;
+}
+.bold{
+    font-weight: bold;
+}
+
+.activeShow{
+    display: block;
 }

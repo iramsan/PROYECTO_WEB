@@ -1,0 +1,19 @@
+<p class="txtG">¿Qué es?</p>
+En el simposio (también conocido con el término latino simposium), un equipo de expertos desarrolla un tema en forma de discurso de manera sucesiva. El discurso se apoya básicamente en datos empíricos surgidos de investigaciones. Al final se destina un lapso para plantear preguntas. El objetivo es obtener información actualizada.
+
+
+<p class="txtG">Es una estrategia que puede usarse en tres vertientes: </p>
+<span class="indices">a)</span> Asistencia a un congreso organizado por instancias externas a la universidad.
+<span class="indices">b)</span> Participación de los alumnos en un congreso presentando alguna ponencia.
+<span class="indices">c)</span> Organización de un congreso.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Obtener información actualizada.
+<span class="indices">•</span> Plantear preguntas en torno a un tema.
+<span class="indices">•</span> Analizar información.
+<span class="indices">•</span> Desarrollar la capacidad de argumentación y convencimiento.
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

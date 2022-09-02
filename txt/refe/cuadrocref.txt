@@ -1,0 +1,10 @@
+<p class="destacar margin_top_2 line_top">Fuentes.</p>
+<div class="autor"><img class="autorImg" src="http://3.bp.blogspot.com/-jXTLJptK-ec/VFSOVa2k2yI/AAAAAAAAAFY/F_lM0wJZK6U/s1600/images.jpg" alt="autor.png"><div class="autor columa"><span class="autorNom">Autor: <a target="_blank" class="autorNombre fond_bold" href="https://acortar.link/5vaFBo">Julio H. Pimienta Prieto.</a></span><span class="autorRef">Libro: <span class="bold">estrategias de enseñanza aprendizaje.</span></span></div></div>
+
+<p class="destacar line_top">Aplicaciónes que puedes utilizar.</p>
+<span>Diseña un cuadro comparativo: <a target="_blank" href="https://www.canva.com/es_mx/graficas/cuadros-comparativos/" class="autorNombre">saber mas...</a></span>
+
+<p class="destacar line_top">Mas ejemplos.</p>
+<span>Como hacer un cuadro comparativo: <a target="_blank" href="https://cuadrocomparativo.org/pasos-para-hacer-un-cuadro-comparativo/" class="autorNombre">saber mas...</a></span>
+<span>Como hacer un cuadro comparativo: <a target="_blank" href="https://cuadrocomparativo.org/cuadros-comparativos-como-hacerlos-informacion-y-ejemplos/" class="autorNombre">saber mas...</a></span>
+<span>Como hacer un cuadro comparativo: <a target="_blank" href="http://joangregorioperez.blogspot.com/2018/11/cuadros-comparativos-como-hacerlos.html" class="autorNombre">saber mas...</a></span>

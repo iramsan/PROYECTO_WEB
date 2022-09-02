@@ -1,0 +1,18 @@
+<p class="txtG">¿Qué es?</p>
+Es una metodología qué consiste en investigar un problema con continua tutoría del docente. Las prácticas profesionales y el servicio social llevado a cabo en las universidades son un buen ejemplo de investigación con tutoría; sin embargo, se puede realizar en cualquier momento del proceso de enseñanza y aprendizaje.
+
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se identifica un problema o una situación a investigar dentro de la profesión.
+<span class="indices">b)</span> Se brinda tutoría durante el proceso de investigación, tanto en la búsqueda de información como en el análisis e interpretación de la misma.
+<span class="indices">c)</span> Se elabora un reporte escrito siguiendo los pasos del método científico.
+<span class="indices">d)</span> Se enuncian y presentan los resultados.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Efectuar un análisis profundo de un problema en su contexto.
+<span class="indices">•</span> Desarrollar la comprensión de un problema.
+<span class="indices">•</span> Aplicar el método científico.
+<span class="indices">•</span> Adquirir práctica en la búsqueda, el análisis y la interpretación de información.
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

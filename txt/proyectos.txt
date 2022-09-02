@@ -1,0 +1,54 @@
+<p class="txtG">¿Qué es?</p>
+Los proyectos son una metodología integradora que plantea la inmersión del estudiante en una situación o una problemática real que requiere solución o comprobación. Se caracteriza por aplicar de manera práctica una propuesta que permite solucionar un problema real desde diversas áreas de conocimiento, centrada en actividades y productos de utilidad social. Surge del interés de los alumnos.
+
+<p class="txtG">Los proyectos incluyen varios pasos:</p>
+<span class="indices">1</span> Observación y documentación de un tema de interés o una problemática específica de la profesión.
+<span class="indices">2</span> Formulación de una pregunta que exprese una situación por resolver.
+<span class="indices">3</span> Planteamiento de una hipótesis a comprobar.
+<span class="indices">4</span> Selección y adecuación del método a utilizar y que permita resolver la pregunta de investigación.
+<span class="indices">5</span> Recopilación, análisis e interpretación de información.
+<span class="indices">6</span> Redacción de las conclusiones.
+<span class="indices">7</span> Presentación de los resultados de la investigación.
+
+Existen proyectos de duración corta (como un proyecto parcial, que se presenta al final
+de la asignatura o se realiza a lo largo del semestre); o prolongada (durante dos semestres continuos).
+Los proyectos exigen un alto grado de responsabilidad por parte del alumno y el docente, sobre todo en los proyectos a mediano plazo, puesto que se lleva a la práctica en un contexto dado y se requiere constancia y seguimiento en el desarrollo del mismo.
+
+
+<p class="txtG">¿Cómo se realizan?</p>
+<span class="indices">a)</span> Se presenta la situación o el problema. Se puede exponer a los alumnos en una frase corta o bien por medio de una pregunta. Los proyectos que se generan a partir de las inquietudes de los estudiantes suelen ser interesantes, pero también son útiles los que plantea el profe- sor para guiar el trabajo con los estudiantes.
+<span class="indices">b)</span> Se describe el objetivo del proyecto. Es una fase de análisis y generación de expectativas.
+<span class="indices">c)</span> Se comunican los criterios de desempeño esperados por los estudiantes.
+<span class="indices">d)</span> Se establecen reglas e instrucciones para desarrollar el proyecto.
+<span class="indices">e)</span> Se plantean las características del método científico para su ejecución.
+<span class="indices">f)</span> Se ejecuta el proyecto, lo que implica realizar:
+<span class="indices">•</span> Un análisis del problema, su importancia y las posibles soluciones.
+<span class="indices">•</span> Una búsqueda de información en fuentes primarias y secundarias.
+<span class="indices">g)</span> Se encuentra solución al problema o la situación. Para ello:
+<span class="indices">•</span> Se analizan los elementos y contenidos de diversas propuestas de solución.
+<span class="indices">•</span>  Se elige una propuesta.
+<span class="indices">•</span> Se elabora la propuesta elegida.
+<span class="indices">h)</span> Se elabora una propuesta de trabajo:
+<span class="indices">•</span> Se realiza la presentación de la propuesta bajo los criterios especificados previamente.
+<span class="indices">i)</span> Se redacta un informe, con base en los pasos seguidos en el proyecto y las conclusiones, así como la metaevaluación del mismo.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Permiten desarrollar los diversos aspectos de las competencias, en sus tres dimensiones de saber y articulando la teoría con la práctica.
+<span class="indices">•</span> Favorecen prácticas innovadoras.
+<span class="indices">•</span> Ayudan a solucionar problemas.
+span class="indices">•</span> Permiten transferir conocimientos, habilidades y capacidades a diversas áreas de conocimiento.
+<span class="indices">•</span> Permiten aplicar el método científico.
+<span class="indices">•</span> Favorecen la metacognición.
+span class="indices">•</span> Fomentan el aprendizaje cooperativo.
+<span class="indices">•</span> Ayudan a administrar el tiempo y los recursos.
+<span class="indices">•</span> Alientan el liderazgo positivo.
+span class="indices">•</span> Fomentan la responsabilidad y el compromiso personal.
+<span class="indices">•</span> Contribuyen a desarrollar la autonomía.
+<span class="indices">•</span> Permiten una comprensión de los problemas sociales y sus múltiples causas.
+span class="indices">•</span> Permiten un acercamiento a la realidad de la comunidad, el país y el mundo.
+<span class="indices">•</span>  Alientan el aprendizaje de gestión de un proyecto.
+<span class="indices">•</span> Permiten desarrollar la autonomía y la capacidad de hacer elecciones y negociaciones.
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

@@ -20,6 +20,11 @@
     justify-content: center;
     align-items: center;
 }
+.dis_d_flex_2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
 .dis_a{
     text-decoration: none;
     color: black;
@@ -101,6 +106,41 @@
 .botonTimer:active{
     transform: scale(0.5);
 }
+
+
+/* AUTOR CSS */
+.line_top{
+    border-top: 1px solid black;
+    padding-top: 1rem;
+}
+.autor{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+.columa{
+    align-items: flex-start;
+    flex-direction: column;
+}
+.autorImg{
+    width: 60px;
+    border-radius: 60%;
+}
+.autorNombre{
+    text-align: justify;
+    color: #0000ee;
+    text-decoration: none;
+}
+.autorNombre:hover{
+    text-decoration: underline;
+}
+.autorNom{
+    text-align: left;
+}
+.fond_bold{
+    font-weight: bold;
+}
+
 @media (max-width: 1280px) {
     .partir{
         grid-template-columns: 1fr;

@@ -1,8 +1,8 @@
 <?php
 require_once('Db_conex.php');
 
-$queryEst = mysqli_query($conex,"select m.Nombre,m.Busqueda,c.Categoria from menu as m join categoria as c on m.FK_Categoria=c.Cod_Estrategias where c.Categoria = 'Estrategia'");
-$queryMeto = mysqli_query($conex,"select m.Nombre,m.Busqueda,c.Categoria from menu as m join categoria as c on m.FK_Categoria=c.Cod_Estrategias where c.Categoria = 'Metodologia'");
+$queryEst = mysqli_query($conex,"select m.txt, m.Nombre,m.Busqueda,c.Categoria from menu as m join categoria as c on m.FK_Categoria=c.Cod_Estrategias where c.Categoria = 'Estrategia'");
+$queryMeto = mysqli_query($conex,"select m.txt, m.Nombre,m.Busqueda,c.Categoria from menu as m join categoria as c on m.FK_Categoria=c.Cod_Estrategias where c.Categoria = 'Metodologia'");
 
 
 if (isset($_GET['p'])) {
@@ -34,10 +34,12 @@ if (isset($_GET['p'])) {
 function showEstra($q, $img){ ?>
     <img class="imgResBanner" src="<?php echo $img; ?>" alt="">
     <div class="grid">
-    <?php while($showResour = mysqli_fetch_array($q)){ ?>
+    
+    <?php 
+    while($showResour = mysqli_fetch_array($q)){ ?>
         <div class="block padding edit_cart">
             <p><?php echo $showResour['Nombre']; ?></p>
-            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusamus corrupti quibusdam magni autem n eligendi laboriosam natus sunt eaque?</p>
+            <p><?php echo $showResour['txt']; ?></p>
             <a class="aDownloadResour color_blanco bg_color_1" href="?p=<?php echo $showResour['Busqueda']; ?>">Saber Mas...</a>
         </div>
     <?php } ?>

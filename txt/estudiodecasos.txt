@@ -1,0 +1,31 @@
+<p class="txtG">¿Qué es?</p>
+Los estudios de caso constituyen una metodología que describe un suceso real o simulado complejo que permite al profesionista aplicar sus conocimientos y habilidades para resolver un problema. Es una estrategia adecuada para desarrollar competencias, pues el estudiante pone en marcha tanto contenidos conceptuales y procedimentales como actitudes en un con- texto y una situación dados.
+En el nivel universitario es recomendable que los casos se acompañen de documentación o evidencias que proporcionen información clave para analizarlos o resolverlos. Se pueden realizar de forma individual o grupal. También se puede estudiar un caso en el cual se haya presentado el problema y la forma en cómo se enfrentó.
+
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se selecciona la competencia(o competencias)a trabajar.
+<span class="indices">b)</span> Se identifican situaciones o problemas a analizar. Puede tratarse de un caso y a elaborado o de uno nuevo que se conformó a través de experiencias en la práctica profesional; en cualquiera de los dos casos, hay que documentarlo.
+<span class="indices">c)</span> Se seleccionan las situaciones de acuerdo con su relevancia y vinculación con la realidad.
+<span class="indices">d)</span> Se redacta el caso, señalando las causas y efectos.
+<span class="indices">e)</span> Se determinan los criterios de evaluación sobre los cuales los alumnos realizarán el análisis del caso.
+<span class="indices">f)</span> Se evalúan los casos con base en los criterios previamente definidos.
+<span class="indices">g)</span> El caso se somete al análisis de otros colegas para verificar supertinencia, consistencia y grado de complejidad.
+
+<p class="txtG">Existen cinco fases para una correcta aplicación del estudio de casos (Flechsig y Schiefelbein, 2003):</p>
+<span class="indices">1</span> Fase de preparación del caso por parte del docente.
+<span class="indices">2</span> Fase de recepción o de análisis del caso por parte de los alumnos, para lo cual deben realizar una búsqueda de información adicional para un adecuado análisis.
+<span class="indices">3</span> Fase de interacción con el grupo de trabajo. Si el análisis se realizó de manera individual es necesario que esta fase se realice en pequeños grupos.
+<span class="indices">4</span> Fase de evaluación, la cual consiste en presentar ante el grupo los resultados obtenidos del análisis individual o en pequeños grupos; se discute acerca de la solución y se llega a una conclusión.
+<span class="indices">5</span> Fase de confrontación con la resolución tomada en una situación real.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Desarrollar habilidades del pensamiento crítico.
+<span class="indices">•</span> Desarrollar una competencia comunicativa que consiste en saber argumentar y contrastar.
+<span class="indices">•</span> Promover el aprendizaje colaborativo y la escucha respetuosa ante las opiniones de los demás.
+<span class="indices">•</span> Solucionar problemas.
+<span class="indices">•</span> Aplicar e integrar conocimientos de diversas áreas de conocimientos.
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

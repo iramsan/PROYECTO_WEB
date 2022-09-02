@@ -262,6 +262,36 @@ body{
     padding: 1rem;
     height: auto;
 }
+
+/*input*/
+.input{
+    width: 30rem;
+    height: 2.5rem;
+    border: none;
+    font-size: 1.2rem;
+}
+.input:focus{
+    outline: none;
+    border:none;
+    border-radius: 0rem 1rem 0rem 0rem;
+}
+.br{
+    border-radius: 5px;
+}
+.br-l{
+    border-radius: 1rem 0rem 0rem 1rem;
+}
+.br-r{
+    border-radius: 0rem 1rem 1rem 0rem;
+}
+.position-sticky{
+    position: sticky;
+    left: 40%;
+    z-index: 1020 !important;
+}
+.w-30{
+    width: 30rem;
+}
 /*box shadow*/
 .bs-t{
     box-shadow: 2px -3px 11px 1px rgba(0,0,0,0.34);
@@ -299,6 +329,13 @@ body{
     }
     .text-align-center-sm{
         text-align: center;
+    }
+    .input{
+        width: 100%;
+        height: 2.5rem;
+    }
+    .w-100-sm{
+        width: 100%;
     }
 }
 @media (max-width:768px) {

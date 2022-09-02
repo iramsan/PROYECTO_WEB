@@ -1,0 +1,53 @@
+<p class="txtG">¿Qué es?</p>
+El mapa mental (Buzan, 1996) es una forma gráfica de expresar los pensamientos en función de los conocimientos que se han almacenado en el cerebro. Su aplicación permite generar, organizar, expresar los aprendizajes y asociar más fácilmente nuestras ideas.
+
+<p class="txtG">Caracterisitcas</p>
+<span class="indices">•</span> El asunto o concepto que es motivo de nuestra atención o interés se expresa en una imagen central.
+<span class="indices">•</span> Los principales temas del asunto o concepto se desprendende la imagen central de forma radial o ramificada.
+<span class="indices">•</span> Las ramas tienen una imagen y/o una palabra clave impresa sobre la línea asociada.
+<span class="indices">•</span> Los aspectos menos importantes también se representan como ramas adheridas a las ramas de nivel superior.
+<span class="indices">•</span> Las ramas forman una estructura conectada.
+
+<p class="txtG">¿Cómo se realiza?</p>
+aquí algunas sugerencias para realizar un mapa mental.
+
+<span class="indices">a)</span> Hay que dar énfasis; para ello, se recomienda:
+<span class="indices">•</span> Utilizar siempre una imagen central.
+<span class="indices">•</span> Usar imágenes en toda la extensión del mapa.
+<span class="indices">•</span> Utilizar tres o más colores por cada imagen central.
+<span class="indices">•</span> Emplear la tercera dimensión en imágenes o palabras.
+<span class="indices">•</span> Variar el tamaño de las letras, líneas e imágenes.
+<span class="indices">•</span> Organizar bien el espacio.
+
+<span class="indices">b)</span>  Es necesario destacar las relaciones de asociación entre los elementos. Para ello, es conveniente:
+<span class="indices">•</span> Utilizar flechas para conectar diferentes secciones del mapa.
+<span class="indices">•</span> Emplear colores y códigos.
+
+<span class="indices">c)</span> Para que el mapa mental sea claro se recomienda:
+<span class="indices">•</span> Emplear una palabra clave por línea.
+<span class="indices">•</span> Escribir todas las palabras con letra script.
+<span class="indices">•</span> Anotar las palabras clave sobre las líneas.
+<span class="indices">•</span> Procurar que la longitud de la línea sea igual a la de las palabras.
+<span class="indices">•</span> Unir las líneas entre sí, y las ramas mayores con la imagen central.
+<span class="indices">•</span> Tratar de que las líneas centrales sean más gruesas y conforma orgánica (natural).
+<span class="indices">•</span> Tratar de que los límites enlacen con la rama de la palabra clave. 
+<span class="indices">•</span> Procurar tener claridad en las imágenes.
+<span class="indices">•</span> No girar la hoja al momento de hacer el mapa.
+
+<span class="indices">d)</span> El mapa mental debe reflejar un estilo personal:
+<span class="indices">•</span> Esto permitirá manifestar la creatividad del autor.
+
+<p class="txtG">¿Para que se utiliza?</p>
+<span class="indices">•</span> Desarrollar y lograr la meta cognición.
+<span class="indices">•</span> Desarrollar la creatividad.
+<span class="indices">•</span> Resolver problemas.
+<span class="indices">•</span> Tomar decisiones.
+<span class="indices">•</span> Integrar las partes de un todo o desglosar el todo en sus partes.
+<span class="indices">•</span> Incrementar la capacidad para asimilar, procesar y recordar información.
+<span class="indices">•</span> Realizar una planeación eficiente de una situación dada.
+<span class="indices">•</span> Llevar a cabo un estudio eficaz.
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

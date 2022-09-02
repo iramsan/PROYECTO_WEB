@@ -1,0 +1,30 @@
+<p class="txtG">¿Qué es?</p>
+El diagrama de causa-efecto (Rué, 2009) es una estrategia que permite analizar un problema identificando tanto sus causas como los efectos que produce. Se representa a través de un diagrama en forma de pez.
+
+<p class="txtG">El diagrama de causa-efecto se organiza en tres grandes ejes:
+</p>
+<span class="indices">•</span> El de las 4M (métodos, máquinas, materiales y mano de obra).
+<span class="indices">•</span> El de las 4P (lugares, procedimientos, personas y actuaciones), que corresponden a las palabras en inglés places, procedures, persons y performances.
+<span class="indices">•</span> El de las 4S(suministradores, sistemas, habilidades y entornos),que corresponden alaspalabras en inglés suppliers, systems, skills y surroundings.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+Dichos ejes se utilizan sobre todo en áreas de la administración; sin embargo, se pueden utilizar en cualquier otro ámbito o para elaborar una clasificación acorde con el contexto del problema.
+El docente debe utilizar la estrategia modelando su uso para que los estudiantes la puedan aplicar en situaciones simuladas o en contextos reales.
+<span class="indices">•</span> Desarrollar la capacidad de análisis en relación con un problema.
+<span class="indices">•</span> Desarrollar la capacidad de solucionar problemas.
+<span class="indices">•</span> Identificar las causas y los efectos de un problema.
+<span class="indices">•</span> Diferenciar, comparar, clasificar, categorizar, secuenciar, agrupar y organizar gran cantidad de documentos.
+
+<p class="txtG">¿Cómo se realiza?</p>
+
+<span class="indices">a)</span> Se coloca en la cabeza del pez el problema a analizar.
+<span class="indices">b)</span> En la parte superior de las espinas del pez, se colocan las categorías acordes al problema considerando los tres ejes y su clasificación. Con dicha categorización se pueden identificar más fácilmente las áreas sobre las que recae el problema.
+<span class="indices">c)</span> Se realiza una lluvia de ideas acerca de las posibles causas, las cuales se ubican en las categorías que corresponda.
+<span class="indices">d)</span> En cada categoría o espina del pez se pueden agregar sub causas o causas secundarias. 
+<span class="indices">e)</span> Se presenta y se discute el diagrama.
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje
+

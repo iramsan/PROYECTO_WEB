@@ -1,0 +1,23 @@
+<p class="txtG">¿Qué es?</p>
+Es un proyecto que consiste en ofrecer servicios y/o productos a la comunidad para aprender las competencias vinculadas con el currículo escolar. Implica la responsabilidad social.
+
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se determina qué producto o servicio se ajusta al aprendizaje de una competencia.
+<span class="indices">b)</span> Se determina el contexto en que se aplicará el proyecto.
+<span class="indices">c)</span> Se organizan equipos de entre cinco y siete integrantes.
+<span class="indices">d)</span> Se asigna un contexto a cada equipo o se considera el mismo para todos los alumnos.
+<span class="indices">e)</span> Se introduce a los alumnos en el contexto.
+<span class="indices">f)</span> Se da seguimiento y retroalimentación al trabajo de los estudiantes.
+<span class="indices">g)</span> Se realiza una plenaria para que los alumnos expongan y compartan sus experiencias y las estrategias aplicadas para afrontar problemas.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Desarrollar competencias tanto genéricas como específicas.
+<span class="indices">•</span> Aplicar los conocimientos adquiridos en las aulas.
+<span class="indices">•</span> Diagnosticar las necesidades de la población y las respuestas que como profesionistas se pueden ofrecer.
+<span class="indices">•</span> Promover el aprendizaje cooperativo.
+<span class="indices">•</span> Favorecer el aprendizaje por proyectos.
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

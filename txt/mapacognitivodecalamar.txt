@@ -1,0 +1,13 @@
+<p class="txtG">¿Qué es?</p>
+Es un esquema que se utiliza para diferenciar dos o más elementos.
+
+<p class="txtG">¿Cómo se realiza?</p>
+
+<span class="indices">a)</span> La parte central se divide en tres segmentos: en el centro se anota el tema, y a los costados los subtemas.
+<span class="indices">b)</span> De los subtemas salen líneas que asemejan los tentáculos del calamar, en los cuales se comparan las características.
+
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

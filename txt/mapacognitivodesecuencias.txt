@@ -1,0 +1,13 @@
+<p class="txtG">¿Qué es?</p>
+Es un esquema o diagrama que simula una cadena continua de temas con secuencia cronológica.
+
+<p class="txtG">¿Cómo se realiza?</p>
+
+<span class="indices">a)</span> En el primer círculo se anota el título del tema. 
+<span class="indices">b)</span> En los siguientes círculos se anotan los pasos o las etapas que se requieren para llegar a la solución.
+
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

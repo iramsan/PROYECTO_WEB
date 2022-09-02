@@ -14,8 +14,9 @@ session_start();
     <link rel="stylesheet" href="./css/scss.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script defer src="./js/mod.js"></script>
+    <script defer src="./js/search.js"></script>
 </head>
-<body class="body">
+<body class="body" id="body">
     <?php require_once('./Views/VheaderMovile.php'); ?>
     
     <main class="main">

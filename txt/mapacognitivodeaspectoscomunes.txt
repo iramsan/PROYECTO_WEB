@@ -1,0 +1,16 @@
+<p class="txtG">¿Qué es?</p>
+Es un diagrama similar a los diagramas de Venn, donde se identifican los aspectos o elementos comunes entre dos temas o conjuntos.
+
+<p class="txtG">¿Como se realiza?</p>
+
+<span class="indices">a)</span> En el conjunto “A”(primer círculo) sea nota el primer tema y sus características.
+<span class="indices">b)</span> En el conjunto “B” se anota el segundo tema y sus características.
+<span class="indices">c)</span> En la intersección que hay entre ambos círculos se colocan los elementos comunes o semejantes que existen entre dichos temas.
+<span class="indices">d)</span> Los elementos que quedan fuera de la intersección se pueden denominar diferencias.
+
+
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

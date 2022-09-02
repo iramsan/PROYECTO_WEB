@@ -1,0 +1,12 @@
+
+<p class="txtG">¿Cómo se realiza?</p>
+
+<span class="indices">a)</span> No posee una estructura jerárquica; más bien, parte de un centro y se extiende hacia los extremos. 
+<span class="indices">b)</span> Hay un concepto inicial (la raíz del árbol que corresponde al título del tema).
+<span class="indices">c)</span> El concepto inicial está relacionado con otros conceptos subordinados, y cada concepto está unido a un solo y único predecesor.
+<span class="indices">d)</span> Hay un ordenamiento de izquierda a derecha de todos los “descendientes” o derivados de un mismo concepto.
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

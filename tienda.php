@@ -33,12 +33,10 @@ session_start();
             </figure>
         </div>
     </div>
-    <aside class="my-3" style="background-color: gray;">
-        <div class="container d-flex justify-content-center">
-                <h1>publicidad</h1>
-                <h1>aqui va</h1>
-        </div>
-    </aside>
+    <?php include('./Views/anun/vanun_hori.php'); 
+    vAnuncio('https://thumbs.gfycat.com/JubilantAffectionateGrouper-max-1mb.gif');
+    ?>
+
     <main class="container mt-5 mb-5">
         <!---libros-->
         <h2 class="my-2 text-center text-lg-start ms-lg-5">Libros</h2>
@@ -78,6 +76,7 @@ session_start();
                 </div>
             </div>
         </div>
+        <?php vAnuncio('https://i.makeagif.com/media/10-15-2013/StRoDv.gif'); ?>
         <!--Cursos-->
         <h2 class="my-2 text-center text-lg-start ms-lg-5">Cursos</h2>
         <div class="d-flex justify-content-center mt-2 flex-wrap flex-lg-nowrap">
@@ -115,6 +114,7 @@ session_start();
                 </div>
             </div>
         </div>
+        <?php vAnuncio('https://www.tupuedesvendermas.com/wp-content/uploads/2020/08/banner-curso-captar-propiedades1.gif'); ?>
         <!--Recursos Gratis-->
         <h2 class="my-2 text-center text-lg-start ms-lg-5">Recursos Gratis</h2>
         <div class="d-flex justify-content-center mt-2 flex-wrap flex-lg-nowrap">

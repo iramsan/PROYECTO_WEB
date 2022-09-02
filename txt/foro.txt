@@ -1,0 +1,22 @@
+<p class="txtG">¿Qué es?</p>
+El foro es una presentación breve de un asunto por un orador (en este caso un alumno), segui- da por preguntas, comentarios y recomendaciones. Carece de la formalidad que caracterizan al debate y al simposio.
+Una modalidad del foro de discusión es realizarlo de manera electrónica a través del uso de Internet. El profesor destina un espacio en un sitio Web para intercambiar ideas con sus alumnos sobre temas de actualidad y de interés para el grupo.
+
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se presenta y se expone un tema de interés, una situación o un problema sin resolver.
+<span class="indices">b)</span> El alumno seleccionado presenta el tema ante el grupo.
+<span class="indices">c)</span> Para comenzar la discusión con el grupo se puede introducir el tema a través de preguntas abiertas.
+<span class="indices">d)</span> Se consideran todas las preguntas que realicen los alumnos.
+<span class="indices">e)</span> Se permite el intercambio de ideas y preguntas entre los alumnos.
+<span class="indices">f)</span> Se alienta a los alumnos a que profundicen e incluso planteen nuevas preguntas.
+<span class="indices">g)</span> Se realiza un cierre para llegar a conclusiones.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Desarrollar el pensamiento crítico: análisis, pensamiento hipotético, evaluación y emisión de juicios.
+<span class="indices">•</span> Fomentar el cuestionamiento de los alumnos en relación con un tema.
+<span class="indices">•</span> Indagar conocimientos previos.
+<span class="indices">•</span> Aclarar concepciones erróneas.
+<span class="indices">•</span> Desarrollar competencias comunicativas, sobre todo de expresión oral y argumentación.
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

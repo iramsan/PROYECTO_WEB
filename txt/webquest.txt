@@ -1,0 +1,33 @@
+<p class="txtG">¿Qué es?</p>
+Es una estrategia orientada a la investigación utilizando Internet como herramienta básica de búsqueda de información.
+
+<p class="txtG">Una webquest se estructura de la siguiente manera:</p>
+<span class="indices">a)</span> Introducción. Se despierta el interés de los alumnos através de una presentación atractiva de la actividad.
+<span class="indices">b)</span> Tarea o reto (resolver un problema, elaborar un proyecto, diseñar un producto, resolver enigmas, etcétera).
+<span class="indices">c)</span> Proceso para llevar a cabo la tarea.
+<span class="indices">d)</span> Evaluación
+<span class="indices">e)</span> Conclusión
+
+<p class="txtG">Existen dos tipos de webquest:</p>
+<span class="indices">a)</span> De corto plazo. Actividades que se realizan en el plazo de tres sesiones.
+<span class="indices">b)</span> De largo plazo. Actividades que se llevan a cabo de una semana a un mes, lo cual requiere de una planeación y un seguimiento rigurosos.
+
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se selecciona la unidad, el bloqueo la competencia a trabajar.
+<span class="indices">b)</span> Se selecciona una serie de texto que el alumno tendrá que leer, analizar y reestructurar.
+<span class="indices">c)</span> Se diseñan actividades o ejercicios relacionados con las lecturas que impliquen un reto que el alumno pueda enfrentar.
+<span class="indices">d)</span> Se socializan los resultados en plenaria.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Desarrollar competencias en el uso de Internet.
+<span class="indices">•</span> Buscar y seleccionar información en múltiples fuentes electrónicas y documentales.
+<span class="indices">•</span> Trabajar interdisciplinariamente.
+<span class="indices">•</span> Integrar otras estrategias de enseñanza y aprendizaje.
+<span class="indices">•</span> Desarrollar el análisis de textos.
+<span class="indices">•</span> Usar Internet como herramienta que favorece procesos de aprendizaje.
+<span class="indices">•</span> Desarrollar el aprendizaje autónomo.
+<span class="indices">•</span> Desarrollar la capacidad para resolver problemas.
+<span class="indices">•</span> Realizar una estrategia interdisciplinaria.
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

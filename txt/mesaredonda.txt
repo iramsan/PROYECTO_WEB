@@ -1,0 +1,29 @@
+<p class="txtG">¿Qué es?</p>
+Las mesas redondas son un espacio que permite la expresión de puntos de vista divergentes sobre un tema por parte de un equipo de expertos. Son dirigidas por un moderador, y su finalidad es obtener información especializada y actualizada sobre un tema, a partir de la confrontación de diversos puntos de vista.
+Es una estrategia que se puede usar dentro del salón de clases; también es posible asistir a espacios de carácter profesional para profundizar en un tema.
+
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Fase de preparación, la cual consiste en: 
+<span class="indices">•</span> Organizar un equipo de nomás de siete integrantes.
+<span class="indices">•</span> Seleccionar a un moderador.
+<span class="indices">•</span> El resto del grupo fungirá como espectador, pero podrá realizar preguntas escritas para tratar al finalizar la mesa redonda.
+<span class="indices">•</span> Se presenta una temática de actualidad y se solicita a los equipos que realicen una investigación exhaustiva del tema.
+<span class="indices">•</span> Se establecen las reglas de operación de la estrategia.
+<span class="indices">b)</span> Fase de interacción:
+<span class="indices">•</span> El moderador presenta el tema a tratar y la importancia del mismo.
+<span class="indices">•</span> Los expertos presentan sus puntos de vista organizados en rondas (se establece un tiempo breve para cada uno, entre 10 y 20 minutos).
+<span class="indices">•</span> Al finalizar las rondas, el moderador realiza una reseña de lo expuesto por los expertos.
+<span class="indices">•</span> Se concluye el tema con la participación de los expertos.
+<span class="indices">c)</span> Fase de valoración:
+<span class="indices">•</span> El grupo realiza un ejercicio de metacognición en relación con el desarrollo de la mesa redonda y los aprendizajes que se dieron durante la misma.
+
+<p class="txtG">¿Para qué se utiliza?</p> 
+<span class="indices">•</span> Desarrollar competencias comunicativas como la argumentación y la expresión oral.
+<span class="indices">•</span> Desarrollar la capacidad de escucha y fomentar el respeto por las opiniones de los demás.
+<span class="indices">•</span> Presentar un tema por parte de los estudiantes, para lo que deberán estudiar materiales y mostrarse como expertos; es una forma de simulación.
+
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

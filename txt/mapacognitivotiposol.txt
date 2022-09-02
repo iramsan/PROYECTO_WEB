@@ -1,0 +1,14 @@
+<p class="txtG">¿Qué es?</p>
+Es un diagrama o esquema semejante a la figura del sol que sirve para introducir u organizar un tema. En él se colocan las ideas respecto a un tema o concepto.
+
+<p class="txtG">¿cómo se realiza?</p>
+
+<span class="indices">a)</span> En la parte central (círculo del sol) se anota el título del tema atratar. 
+<span class="indices">b)</span> En las líneas o rayos que circundan al sol (círculo) se añaden ideas obtenidas sobre
+el tema.
+
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

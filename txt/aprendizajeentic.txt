@@ -1,0 +1,20 @@
+<p class="txtG">¿Qué es?</p>
+Constituye una metodología para el desarrollo de competencias utilizando las tecnologías de la información y la comunicación (tic).
+
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se identifica el problema y las competencias a desarrollar.
+<span class="indices">b)</span> Se determinan las tic requeridas.
+<span class="indices">c)</span> Se analizan los recursos disponibles y se gestionan otros necesarios.
+<span class="indices">d)</span> Se realizan las actividades establecidas.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> La metodología de aprendizaje basado en las tic:
+<span class="indices">•</span> Facilita él aprendizaje a distancia, sin la presencia física del profesor.
+<span class="indices">•</span> Ayuda a desarrollar habilidades de aprendizaje autónomo.
+<span class="indices">•</span> Favorece la lectura de comprensión.
+
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

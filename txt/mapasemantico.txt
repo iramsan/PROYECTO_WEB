@@ -1,0 +1,23 @@
+<p class="txtG">¿Qué es?</p>
+Es una estructuración categórica de información, representada gráficamente, que no tiene una jerarquía definida.
+
+<p class="txtG">¿cómo se realiza?</p>
+<span class="indices">a)</span> Se identifica la idea principal.
+<span class="indices">b)</span> Se identifican las categorías secundarias.
+<span class="indices">c)</span> Se establecen relaciones entre la idea principal y las categorías secundarias.
+<span class="indices">d)</span> Se incluyen detalles complementarios(características, temas, subtemas).
+
+
+<p class="txtG">¿Para qué se utiliza?</p>
+
+<span class="indices">•</span> Enfatizar relaciones entre conceptos.
+<span class="indices">•</span> Desarrollar la capacidad de análisis.
+<span class="indices">•</span> Organizar el pensamiento.
+<span class="indices">•</span> Favorecer la comprensión.
+<span class="indices">•</span> Desarrollar la metacognición.
+
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

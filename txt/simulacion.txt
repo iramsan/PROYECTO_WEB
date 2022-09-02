@@ -1,0 +1,29 @@
+<p class="txtG">¿Qué es?</p>
+La simulación es una estrategia que pretende representar situaciones de la vida real en la que participan los alumnos actuando roles, con la finalidad de dar solución a un problema o, sim- plemente, para experimentar una situación determinada.
+Permite que los alumnos se enfrenten a situaciones que se pueden presentar en el ámbito laboral para desarrollar en ellos estrategias de prevención y toma de decisiones eficaces. La simulación en la actualidad es muy utilizada en diversas profesiones; pero la medicina es una de las que más la ha empleado con éxito.
+
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se presenta la dinámica a los alumnos considerando las reglas sobre las cuales se realizará la simulación. En el caso de simulación con herramientas específicas, se requiere de un arduo trabajo previo para introducir a los alumnos a su uso.
+<span class="indices">b)</span> Se presenta el caso al estudiante o estudiantes sobre el cual llevará a cabo la simulación.
+<span class="indices">c)</span> Se propicia la interacción de los alumnos en una simulación dada. El ambiente debe ser relajado para que actúen con la mayor naturalidad posible y para que fluya la creatividad.
+<span class="indices">d)</span> Se pueden sustituir las actuaciones de los personajes por alumnos que aún no han participado.
+<span class="indices">e)</span> Finalmente se debe realizar una evaluación de la situación representada, para identificar actuaciones asertivas y que ameriten mejora.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Favorecer prácticas innovadoras.
+<span class="indices">•</span> Solucionar problemas.
+<span class="indices">•</span> Transferir conocimientos, habilidades y capacidades a diversas áreas de conocimiento.
+<span class="indices">•</span> Favorecer la metacognición.
+<span class="indices">•</span> Realizar el aprendizaje cooperativo.
+<span class="indices">•</span> Fomentar un liderazgo positivo.
+<span class="indices">•</span> Desarrollar la autonomía.
+<span class="indices">•</span> Comprender los problemas sociales y sus múltiples causas.
+<span class="indices">•</span> Propiciar un acercamiento a la realidad laboral y profesional.
+<span class="indices">•</span> Además, puede constituir un excelente medio de evaluación.
+
+ 
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

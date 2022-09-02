@@ -75,7 +75,7 @@ $conex = $inst->conex();
         <section class="searchBoxinside dflex_1-2">
             <section class="dflex_1-0">
                 <input type="image" src="./img/iconSearch.png" class="icon_1-1">
-                <input  onkeyup="buscar_ahora($('#buscar_1').val());" type="text" id="buscar_1" name="buscar_1" placeholder="Busqueda" class="searchInput">
+                <input  onkeyup="buscar_ahora($('#buscar_1').val());" onkeypress=emty() type="text" id="buscar_1" name="buscar_1" placeholder="Busqueda" class="searchInput">
             </section>
             <section>
                 <ul class="scrool dataSearch" id="datos_buscador"></ul>

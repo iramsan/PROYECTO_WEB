@@ -1,0 +1,10 @@
+<p class="destacar margin_top_2 line_top">Fuentes.</p>
+<div class="autor"><img class="autorImg" src="http://3.bp.blogspot.com/-jXTLJptK-ec/VFSOVa2k2yI/AAAAAAAAAFY/F_lM0wJZK6U/s1600/images.jpg" alt="autor.png"><div class="autor columa"><span class="autorNom">Autor: <a target="_blank" class="autorNombre fond_bold" href="https://acortar.link/5vaFBo">Julio H. Pimienta Prieto.</a></span><span class="autorRef">Libro: <span class="bold">estrategias de enseñanza aprendizaje.</span></span></div></div>
+
+<p class="destacar line_top">Aplicaciónes que puedes utilizar.</p>
+<span>Aplicación para lluvia de ideas: <a target="_blank" href="https://www.mindmeister.com/pages/es/brainstorming-mind-maps" class="autorNombre">saber mas...</a></span>
+
+<p class="destacar line_top">Mas ejemplos.</p>
+<span>Ejemplo de lluvia de ideas: <a target="_blank" href="https://www.crehana.com/recursos/herramientas/ejemplo-lluvia-ideas-word/" class="autorNombre">saber mas...</a></span>
+<span>Ideas de lluvia de ideas: <a target="_blank" href="https://tumaestros.co/la-lluvia-de-ideas-en-el-aula/" class="autorNombre">saber mas...</a></span>
+<span>Sesión de lluvia de ideas: <a target="_blank" href="https://nubertia.com/hacer-una-sesion-de-lluvia-de-ideas-online/" class="autorNombre">saber mas...</a></span>

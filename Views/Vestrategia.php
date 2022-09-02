@@ -24,21 +24,20 @@ include('./Views/anun/vanun_vertical.php');
         <?php }else{ ?>
             <a href="./registro.php" class="download color_blanco bg_color_1">Descargar</a>
         <?php } ?>
-
-
     </div>
-    <?php
+        <?php
         $txt_file = fopen($getUrl["RutaTxt_1"].'.txt','r');
         while ($line = fgets($txt_file)) {?>
             <?php echo $line; ?></p>
         <?php } fclose($txt_file); ?>
-        <p class="theme destacar">Ejemplo</p>
+
+        <p class="destacar margin_top_2">Ejemplo.</p>
         <div class="imgExample">
             <img class="imgExample" src="<?php echo $getUrl["Ejemplo"]; ?>" alt="Ejemplo.pgn">
         </div>
         <!-- VIDEO -->
         <div class="box_01 mgt_01">
-            <p class="theme destacar">Ejemplo visual</p>
+            <p class=" destacar">Ejemplo visual.</p>
             <?php
                 if (isset($_SESSION['logeado'])) { ?>
                 <!-- video registrado -->
@@ -50,6 +49,7 @@ include('./Views/anun/vanun_vertical.php');
                         </video>
                     </div>
                 <?php }else{ ?>
+
                     <!-- bloqueo -->
                     <div class="timer denied" id="bloqueo">
                         <span><a href="./registro.php" class="a_1 c_1">inicia sesión</a> para no esperar</span>
@@ -85,14 +85,14 @@ include('./Views/anun/vanun_vertical.php');
         </div>
         <?php vAnuncio("https://thumbs.gfycat.com/JubilantAffectionateGrouper-max-1mb.gif") ?>
         <div class="box_01 mgt_01">
-            <p class="theme destacar">Contenido que te puede interesar</p>
+            <p class=" destacar">Contenido que te puede interesar</p>
             <div class="d_grid_1 gap">
                 <!-- mostrar contenido sugerido -->
                 <?php require_once('./Conf/gg_vv.php'); ?>
             </div>
         </div>
         <div class="box_01 mgt_01">
-            <p class="theme destacar">Recursos recomendados</p>
+            <p class=" destacar">Recursos recomendados</p>
             <div class="d_grid_1 gap">
                 <!-- mostrar contenido sugerido -->
                 <?php require_once('./Conf/Db_conexConf.php');
@@ -103,6 +103,13 @@ include('./Views/anun/vanun_vertical.php');
                     <?php } ?>
             </div>
         </div>
+        <!-- Referencias ... -->
+        
+            <?php
+            $refes = fopen($getUrl["urlRefer"].'.txt','r');
+            while ($line = fgets($refes)) {?>
+                <p><?php echo $line; ?></p>
+            <?php } fclose($refes); ?>
     </div>
     <?php vAnunV("https://mktefa.ditrendia.es/hs-fs/hubfs/Ejemplos%20publicidad%20banca%20y%20seguros/ditrendia-Ejemplo%20publicidad%20en%20banca%20y%20seguros-banner%20Openbank%20Hipoteca%201.gif?width=300&height=600&name=ditrendia-Ejemplo%20publicidad%20en%20banca%20y%20seguros-banner%20Openbank%20Hipoteca%201.gif",
     "https://i2.wp.com/media.giphy.com/media/3o7btNYqB1p9JAzLB6/giphy.gif?resize=270%2C480&ssl=1") ?>

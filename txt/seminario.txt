@@ -1,0 +1,21 @@
+<p class="txtG">¿Qué es?</p>
+El seminario es una estrategia expositiva por parte del alumno en relación con un tema. Puede incluir la discusión y el debate, requiere profundidad, y el tiempo destinado es largo.
+Para llevarlo a cabo se requiere efectuar una investigación (bibliográfica, de campo o experimental) para fundamentar las ideas expuestas durante la discusión.
+
+<p class="txtG">¿Cómo se realiza?</p>
+<span class="indices">a)</span> Se expone el tema.
+<span class="indices">b)</span> Se efectúa la discusión.
+<span class="indices">c)</span> Se amplía o se explica determinada información.
+<span class="indices">d)</span> Se dan conclusiones.
+<span class="indices">e)</span> Pueden dejarse preguntas a responder por parte de los estudiantes. Una característica esencial es que para realizar un seminario, el estudiante debe haber leído y estudiado el material con anterioridad.
+
+<p class="txtG">¿Para qué se utiliza?</p>
+<span class="indices">•</span> Fomentar el razonamiento objetivo y la capacidad de investigación.
+<span class="indices">•</span> Desarrollar la capacidad de búsqueda de información.
+<span class="indices">•</span> Desarrollar el pensamiento crítico: análisis, síntesis, evaluación y emisión de juicios.
+
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje

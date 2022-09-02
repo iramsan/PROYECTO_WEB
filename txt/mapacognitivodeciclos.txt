@@ -1,0 +1,13 @@
+<p class="txtG">¿Qué es?</p>
+Es un diagrama donde se anota la información en un orden cronológico o por secuencias a través de círculos y flechas que llevan seriación continua y periódica.
+
+<p class="txtG">¿Cómo se realiza?</p>
+
+<span class="indices">a)</span> En el círculo superior se anota el inicio del ciclo.
+<span class="indices">b)</span> En los sub siguientes se registran las etapas que completan un ciclo.
+
+
+
+
+Julio H. Pimienta Prieto.
+libro:estrategias de enseñanza-aprendizaje
